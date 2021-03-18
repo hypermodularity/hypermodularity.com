@@ -1,9 +1,11 @@
+![hypermodularity](https://logo.hypermodularity.com/1/cover.png)
+
 # hypermodularity.com
 www hypermodularity.com
 
 http://hypermodularity.com/
 
-[hyper modularity](http://hypermodularity.com/)
+[hyper modularity](https://www.hypermodularity.com/)
 
 
 
