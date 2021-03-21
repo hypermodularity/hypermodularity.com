@@ -60,8 +60,10 @@ https://clintberry.com/2013/modular-angularjs-application-design/
 
 
 # Books
+https://www.google.com/search?tbm=bks&q=modularity
 
-https://books.google.de/books?id=xfW6mmAJWjwC
+
+
 
 Modularity: Understanding the Development and Evolution of Natural Complex Systems
-
+https://books.google.de/books?id=xfW6mmAJWjwC
