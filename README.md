@@ -59,3 +59,9 @@ https://programmersought.com/article/5310963279/
 https://clintberry.com/2013/modular-angularjs-application-design/
 
 
+# Books
+
+https://books.google.de/books?id=xfW6mmAJWjwC
+
+Modularity: Understanding the Development and Evolution of Natural Complex Systems
+
