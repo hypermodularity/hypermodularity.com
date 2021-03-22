@@ -53,13 +53,18 @@ It's worth noting that Angular services that need to act like singletons (which 
 If we take a look at our previous examples you'll see how we defined the app module in 
 
 
+
+## Articlers
+
+https://dev.to/workpebojot/architecting-modules-for-software-modularity-part-2-3bpc
+
 https://programmersought.com/article/5310963279/
 
 
 https://clintberry.com/2013/modular-angularjs-application-design/
 
 
-# Books
+## Books
 https://www.google.com/search?tbm=bks&q=modularity
 
 
@@ -73,3 +78,5 @@ https://books.google.de/books?id=xfW6mmAJWjwC
 ## Presentation
 
 https://www.slideshare.net/johannes-weber/module-management-angularjs
+
+
