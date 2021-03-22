@@ -67,3 +67,9 @@ https://www.google.com/search?tbm=bks&q=modularity
 
 Modularity: Understanding the Development and Evolution of Natural Complex Systems
 https://books.google.de/books?id=xfW6mmAJWjwC
+
+
+
+## Presentation
+
+https://www.slideshare.net/johannes-weber/module-management-angularjs
