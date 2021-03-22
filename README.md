@@ -15,6 +15,21 @@ http://hypermodularity.com/
 https://lottiefiles.com/search?q=module&category=animations&animations-page=2
 
 
+## Definition of Modularity in Software Architecture
+
+Modularity is a way to group related code together.
+Most languages have modularity structures, such as packages in Java. Architects need to be aware of how products are packaged by developers and it has major architectural consequences. For example, if many packages are closely coupled together, it becomes more difficult to reuse one of them.
+
+
+## Modular Reuse Before Classes 
+
+Developers before object-oriented languages can struggle about why there are so many different separation schemes. In 1968, a letter written by Edsger Dijkstra denigrated the popular use of the GOTO statement. This paper, illustrated by Pascal and C, led to the era of structured programming languages. Modula and Ada had a module programming structure, just like today's packages or namespaces. 
+
+Object-oriented programming languages became popular when new ways of reusing code were introduced.
+
+A term used to describe code grouping is modularity. From a simplicity standpoint, grouping a large number of classes together in a monolithic application can make sense. However, when the time comes for the architecture to be restructured, the coupling becomes an obstacle to breaking the monolith apart. For software artifacts, such as components, classes, and so on, developers also need qualified names to differentiate different software artifacts from each other to reduce conflict.
+
+
 
 ## The shared module
 
