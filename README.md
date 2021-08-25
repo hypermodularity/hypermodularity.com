@@ -3,7 +3,7 @@
 # [HyperModularity](https://www.hypermodularity.com/)
 
 
-Hypermodularity is an attractive principle for software and hardware architecture, 
+Hypermodularity is an attractive principle for software and hardware architecture
 
     e.g. by assembling a infrastructure of organisation from a large amount of elements
  
@@ -78,7 +78,12 @@ If we take a look at our previous examples you'll see how we defined the app mod
 
 
 
-###  Modularized and decentralized architecture based on micro- and nano- services.
+##  Modularized and decentralized architecture based on micro- and nano- services.
+
++ Nanoservices
++ Microservices
++ Devops
++ Architecture
 
 
 
