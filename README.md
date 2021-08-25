@@ -12,6 +12,8 @@ production cost are significantly decreased and reliability of the system is inc
 The customized bricks are tested and ready to use.
 
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_csdufwaz.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 
 ## Definition of Modularity in Software Architecture
 
@@ -110,12 +112,6 @@ https://brainmates.com.au/general/modularization-satisfy-customers-and-decrease-
 
 Modularity: Understanding the Development and Evolution of Natural Complex Systems
 + https://books.google.de/books?id=xfW6mmAJWjwC
-
-
-
-
-## logo
-https://lottiefiles.com/search?q=module&category=animations&animations-page=2
 
 
 ---
