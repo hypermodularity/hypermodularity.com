@@ -3,17 +3,22 @@
 # [HyperModularity](https://www.hypermodularity.com/)
 
 
-Modularized and decentralized architecture based on micro- and nano- services.
+##  Modularized and decentralized architecture based on micro- and nano- services.
 
 
 Hypermodularity is an attractive principle for software and hardware architecture, 
-e.g. by assembling a infrastructure of organisation from a large amount of elements, 
-production cost are significantly decreased and reliability of the system is increased due to fewer single points of failure. 
+
+    e.g. by assembling a infrastructure of organisation from a large amount of elements, 
+    production cost are significantly decreased 
+    and reliability of the system is increased due to fewer single points of failure. 
+
 The customized bricks are tested and ready to use.
 
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_csdufwaz.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay></lottie-player>
+
+
 
 ## Definition of Modularity in Software Architecture
 
