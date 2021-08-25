@@ -8,11 +8,13 @@
 
 Hypermodularity is an attractive principle for software and hardware architecture, 
 
-    e.g. by assembling a infrastructure of organisation from a large amount of elements, 
-    production cost are significantly decreased 
-    and reliability of the system is increased due to fewer single points of failure. 
+    e.g. by assembling a infrastructure of organisation from a large amount of elements
+ 
+some of the benefits:
 
-The customized bricks are tested and ready to use.
++ the customized bricks are tested and ready to use.
++ production cost are significantly decreased 
++ reliability of the system is increased due to fewer single points of failure. 
 
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
