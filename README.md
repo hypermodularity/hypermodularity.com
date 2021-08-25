@@ -118,6 +118,15 @@ Modularity: Understanding the Development and Evolution of Natural Complex Syste
 <iframe src="https://embed.lottiefiles.com/animation/64189"></iframe>
 
 
+
+---
+
+## Tom Sapletta
++ [Contact on linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.com/)
++ [Softreck Company - Leadership Through Software Development](https://softreck.com/)
+
+
 ---
 + [edit](https://github.com/hypermodularity/www/edit/main/README.md)
 
