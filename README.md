@@ -3,9 +3,6 @@
 # [HyperModularity](https://www.hypermodularity.com/)
 
 
-##  Modularized and decentralized architecture based on micro- and nano- services.
-
-
 Hypermodularity is an attractive principle for software and hardware architecture, 
 
     e.g. by assembling a infrastructure of organisation from a large amount of elements
@@ -81,6 +78,11 @@ If we take a look at our previous examples you'll see how we defined the app mod
 
 
 
+###  Modularized and decentralized architecture based on micro- and nano- services.
+
+
+
+
 ### Presentation
 
 https://www.slideshare.net/johannes-weber/module-management-angularjs
@@ -119,10 +121,6 @@ https://brainmates.com.au/general/modularization-satisfy-customers-and-decrease-
 
 Modularity: Understanding the Development and Evolution of Natural Complex Systems
 + https://books.google.de/books?id=xfW6mmAJWjwC
-
-
-
-<iframe src="https://embed.lottiefiles.com/animation/64189"></iframe>
 
 
 
