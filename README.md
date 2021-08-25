@@ -1,24 +1,24 @@
 ![hypermodularity](https://logo.hypermodularity.com/2/cover.png)
 
-# hypermodularity.com
-www hypermodularity.com
-
-http://hypermodularity.com/
-
-[hyper modularity](https://www.hypermodularity.com/)
+# [HyperModularity](https://www.hypermodularity.com/)
 
 
+Modularized and decentralized architecture based on micro- and nano- services.
 
 
+Hypermodularity is an attractive principle for software and hardware architecture, 
+e.g. by assembling a infrastructure of organisation from a large amount of elements, 
+production cost are significantly decreased and reliability of the system is increased due to fewer single points of failure. 
+The customized bricks are tested and ready to use.
 
-## logo
-https://lottiefiles.com/search?q=module&category=animations&animations-page=2
 
 
 ## Definition of Modularity in Software Architecture
 
 Modularity is a way to group related code together.
-Most languages have modularity structures, such as packages in Java. Architects need to be aware of how products are packaged by developers and it has major architectural consequences. For example, if many packages are closely coupled together, it becomes more difficult to reuse one of them.
+Most languages have modularity structures, such as packages in Java. 
+Architects need to be aware of how products are packaged by developers and it has major architectural consequences. 
+For example, if many packages are closely coupled together, it becomes more difficult to reuse one of them.
 
 
 ## Modular Reuse Before Classes
@@ -36,7 +36,7 @@ A term used to describe code grouping is modularity. From a simplicity standpoin
 In the next chapter we're going to cover a critical type of module that you'll need to create in any reasonably sized application: the shared module.
 
 
-## urls
+## AngularJS
 
 
 The complexity and size of real world codebases for Javascript apps continues to grow larger and larger every year.
@@ -49,6 +49,7 @@ In fact, modularization is now such an important part of building web apps that 
 
 While AngularJS also had a module system, it was often ignored by developers as it often didn't provide enough advantages to make it completely necessary.
 
+
 ### Introducing NgModule
 
 From the Angular docs:
@@ -57,6 +58,8 @@ From the Angular docs:
 
 Every time you add a new feature set into your application, it's a good idea to create a new module to contain it. However, you want to avoid creating unnecessary modules as well, so understanding when to create modules is a bit nuanced.
 We'll cover this in detail a bit later when we show real world examples.
+
+
 
 ###  The root AppModule
 
@@ -69,16 +72,23 @@ If we take a look at our previous examples you'll see how we defined the app mod
 
 
 
-## Articlers
+### Presentation
 
-https://dev.to/workpebojot/architecting-modules-for-software-modularity-part-2-3bpc
-
-https://programmersought.com/article/5310963279/
+https://www.slideshare.net/johannes-weber/module-management-angularjs
 
 
-https://clintberry.com/2013/modular-angularjs-application-design/
 
-https://link.springer.com/article/10.1007/s10202-008-0065-z
+
+
+## Articles
+
++ https://dev.to/workpebojot/architecting-modules-for-software-modularity-part-2-3bpc
+
++ https://programmersought.com/article/5310963279/
+
++ https://clintberry.com/2013/modular-angularjs-application-design/
+
++ https://link.springer.com/article/10.1007/s10202-008-0065-z
 
 
 
@@ -94,18 +104,23 @@ https://brainmates.com.au/general/modularization-satisfy-customers-and-decrease-
 
 
 ## Books
-https://www.google.com/search?tbm=bks&q=modularity
 
-
++ https://www.google.com/search?tbm=bks&q=modularity
 
 
 Modularity: Understanding the Development and Evolution of Natural Complex Systems
-https://books.google.de/books?id=xfW6mmAJWjwC
++ https://books.google.de/books?id=xfW6mmAJWjwC
 
 
 
-## Presentation
 
-https://www.slideshare.net/johannes-weber/module-management-angularjs
+## logo
+https://lottiefiles.com/search?q=module&category=animations&animations-page=2
 
 
+---
++ [edit](https://github.com/hypermodularity/www/edit/main/README.md)
+
+```
+https://github.com/hypermodularity/www.git
+```
