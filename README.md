@@ -2,7 +2,6 @@
 
 # [HyperModularity](https://www.hypermodularity.com/)
 
-
 Hypermodularity is an attractive principle for software and hardware architecture
 
     e.g. by assembling a infrastructure of organisation from a large amount of elements
@@ -127,6 +126,10 @@ https://brainmates.com.au/general/modularization-satisfy-customers-and-decrease-
 Modularity: Understanding the Development and Evolution of Natural Complex Systems
 + https://books.google.de/books?id=xfW6mmAJWjwC
 
+
+## Example projects
+
++ [www.webstream.dev](https://www.webstream.dev/#/)
 
 
 ---
