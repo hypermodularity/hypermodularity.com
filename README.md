@@ -8,7 +8,7 @@ Hypermodularity is an attractive principle for software and hardware architectur
  
 ## some of the benefits:
 
-+ the customized bricks are tested and ready to use.
++ the customized bricks are tested and ready to use
 + production cost are significantly decreased 
 + reliability of the system is increased due to fewer single points of failure. 
 
@@ -20,7 +20,7 @@ Hypermodularity is an attractive principle for software and hardware architectur
 
 ## Definition of Modularity in Software Architecture
 
-Modularity is a way to group related code together.
+Modularity is a way to group and connect related code together.
 Most languages have modularity structures, such as packages in Java. 
 Architects need to be aware of how products are packaged by developers and it has major architectural consequences. 
 For example, if many packages are closely coupled together, it becomes more difficult to reuse one of them.
