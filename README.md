@@ -29,7 +29,10 @@ For example, if many packages are closely coupled together, it becomes more diff
 
 ## Modular Reuse Before Classes
 
-Developers before object-oriented languages can struggle about why there are so many different separation schemes. In 1968, a letter written by Edsger Dijkstra denigrated the popular use of the GOTO statement. This paper, illustrated by Pascal and C, led to the era of structured programming languages. Modula and Ada had a module programming structure, just like today's packages or namespaces.
+after era of structured programming languages developers started working with object-oriented languages, today there are so many different separation schemes, so it's easier to make one step forward to functional without some abstarctions such classes.
+
+
+Modula and Ada had a module programming structure, just like today's packages or namespaces.
 
 Object-oriented programming languages became popular when new ways of reusing code were introduced.
 
