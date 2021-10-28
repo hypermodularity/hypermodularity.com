@@ -15,14 +15,34 @@ upraszczać do granic możiwości
 niezależnym 
 żeby nie było bezuzyteczne
 
-## Module
-+ an application extension
-fully functional  inside application
 
-## Application
+
+## What is an application
+
 An apllication is a program with an interface
 
+
+## What is an interface
+
 An interface is a first layer to interact with an logic program.
+
+
+## What is a module
+
++ an application extension
+fully functional inside application
+
+
+## What is a library
+it's a defined and good designed generic function/helper or many function focused on specific area 
+
+## Helper
+Helper it's small generic part in context of proegram
+
+
+## What is a package
+
+It's an independent library to be use in a program
 
 
 
