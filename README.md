@@ -216,7 +216,16 @@ how to extract from one packages all of functions?
 + https://link.springer.com/article/10.1007/s10202-008-0065-z
 
 
+# hyper modularity in another areas
 
+
+    What is Modular Design
+    Modular Design in Different Forms
+    Types of Modular Design
+    Modular Design in Advertising
+    
+    
+    
 
 ## Books
 
