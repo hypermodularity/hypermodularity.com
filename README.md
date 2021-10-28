@@ -6,11 +6,35 @@ Hypermodularity is an attractive principle for software and hardware architectur
 
 + e.g. by assembling a infrastructure of organisation from a large amount of elements
  
+
+
+# why make a modularisation 
+
++ To provide a clear separation of concerns for the application's functionality
++ To easily implement app performance upgrades like code splitting and AoT compilation
+
+In fact, modularization is now such an important part of building web apps that Angular requires you to architect your applications with it out of the box!
+
+While AngularJS also had a module system, it was often ignored by developers as it often didn't provide enough advantages to make it completely necessary.
+
+
+
 ## some of the benefits:
 
 + the customized bricks are tested and ready to use
 + production cost are significantly decreased 
 + reliability of the system is increased due to fewer single points of failure. 
+
+
+## Modularization – Satisfy Customers and Decrease Costs
+
+
+Modularization is a method that can be employed during the product development process to create innovative products that customers love, while keeping production costs low. 
+Key to a modular, customizable product is to identify which are the functions and parts of the product that are noticed and important to the customers. 
+The rest of the product should be kept standard for as many product lines as possible.
+That way you can offer your customers choices and give them a feeling of having this unique product they were looking for, while saving big in the background.
+
+https://brainmates.com.au/general/modularization-satisfy-customers-and-decrease-costs/
 
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
@@ -25,7 +49,9 @@ Most languages have modularity structures, such as packages in Java, with hyperm
 
 
 
+
 # Hipermodularity on monolith
+
 
 ## Packages, Dependencies, Classes
 
@@ -40,13 +66,16 @@ For example, if many packages are closely coupled together, it becomes more diff
 
 ## Modular Reuse Before Classes
 
-after era of structured programming languages developers started working with object-oriented languages, today there are so many different separation schemes, so it's easier to make one step forward to functional without some abstarctions such classes.
+After "structured programming languages" era software developers started working with object-oriented languages,
+today there are so many different separation schemes, so
+it's easier to make one step forward to functional without some abstarctions such classes.
 
 Modula and Ada had a module programming structure, just like today's packages or namespaces.
 
 Object-oriented programming languages became popular when new ways of reusing code were introduced.
 
-## modularity in practice
+
+## Modularity in practice
 
 A term used to describe code grouping is modularity.
 
@@ -61,42 +90,10 @@ From a simplicity standpoint, grouping a large number of classes together in a m
 In the next chapter we're going to cover a critical type of module that you'll need to create in any reasonably sized application: the shared module.
 
 
+
+
+
 # Hipermodularity on services layer
-
-
-## AngularJS
-
-
-The complexity and size of real world codebases for Javascript apps continues to grow larger and larger every year.
-To combat this, codebases are often "modularized" for two primary reasons:
-
-+ To provide a clear separation of concerns for the application's functionality
-+ To easily implement app performance upgrades like code splitting and AoT compilation
-
-In fact, modularization is now such an important part of building web apps that Angular requires you to architect your applications with it out of the box!
-
-While AngularJS also had a module system, it was often ignored by developers as it often didn't provide enough advantages to make it completely necessary.
-
-
-### Introducing NgModule
-
-From the Angular docs:
-
-    Angular Modules help organize an application into cohesive blocks of functionality.
-
-Every time you add a new feature set into your application, it's a good idea to create a new module to contain it. However, you want to avoid creating unnecessary modules as well, so understanding when to create modules is a bit nuanced.
-We'll cover this in detail a bit later when we show real world examples.
-
-
-
-###  The root AppModule
-
-Per the Angular Style Guide, every Angular app needs to have a root module called AppModule that is responsible for importing all other modules & functionality that is required for the app to start. The Angular Team has an excellent resource that describes it in detail:
-AppModule: The Root Module
-
-It's worth noting that Angular services that need to act like singletons (which most services do) should be imported in the AppModule to ensure there is only one instance ever created during the lifecycle of the application.
-
-If we take a look at our previous examples you'll see how we defined the app module in
 
 
 
@@ -108,12 +105,34 @@ If we take a look at our previous examples you'll see how we defined the app mod
 + Architecture
 
 
+## microservices -> nanoservices
+
+What is the differend
+
+On microservices we are working with packages and many classes to build some independent part osf system which can be independet service
++ DB
++ Auth
++ + roles
+
+## layers
+
+With more advanced servcies with independent latyer for auuthorisation, API, ...
+We can just create one by one FaaS Functions as a Service using all of layers
+
+We call it annoservices
 
 
-### Presentation
+The nanoservices based on existing infrastructure
 
-https://www.slideshare.net/johannes-weber/module-management-angularjs
 
+# Packages modularity
+
+
+## modulrity in existing packages
+
+how to make it step by step
+
+how to extract from one packages all of functions?
 
 
 
@@ -129,16 +148,6 @@ https://www.slideshare.net/johannes-weber/module-management-angularjs
 + https://link.springer.com/article/10.1007/s10202-008-0065-z
 
 
-
-## Modularization – Satisfy Customers and Decrease Costs
-
-
-Modularization is a method that can be employed during the product development process to create innovative products that customers love, while keeping production costs low. 
-Key to a modular, customizable product is to identify which are the functions and parts of the product that are noticed and important to the customers. 
-The rest of the product should be kept standard for as many product lines as possible.
-That way you can offer your customers choices and give them a feeling of having this unique product they were looking for, while saving big in the background.
-
-https://brainmates.com.au/general/modularization-satisfy-customers-and-decrease-costs/
 
 
 ## Books
