@@ -46,6 +46,25 @@ It's an independent library to be use in a program
 
 
 
+## What is the different between Modularisation and hyper modularisation
+
+modularistion is focuesn on grouping
+
+
+## Hipermodularity 
++ is not just about grouping somethings,
++ it's not just about extract small independent generic parts 
++ its' about the best solution for specific usage such
+
+
+
+## hipermodularity 
+
+huge result wiht litlle energy involved.
++ that's the lever mechanism 
+
+
+
 # [HyperModularity](https://www.hypermodularity.com/)
 
 Hypermodularity is an attractive principle for software and hardware architecture
