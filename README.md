@@ -20,8 +20,9 @@ Hypermodularity is an attractive principle for software and hardware architectur
 
 ## Definition of Modularity in Software Architecture
 
-Modularity is a way to group and connect related code together.
-Most languages have modularity structures, such as packages in Java. 
+Modularity is a way to extract each part of code, such functions as a generic part instead of group related code together.
+Most languages have modularity structures, such as packages in Java, with hypermodularity we based ons separated functions.
+
 Architects need to be aware of how products are packaged by developers and it has major architectural consequences. 
 For example, if many packages are closely coupled together, it becomes more difficult to reuse one of them.
 
