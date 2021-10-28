@@ -1,20 +1,17 @@
 ![hypermodularity](https://logo.hypermodularity.com/2/cover.png)
 
 
+## hyper modularity process
 
-Porces hipermodularyzacji
-
-+ Combining the smallest possible reusable elements
++ Split the smallest possible reusable elements
 
 
-Modularyzacja a hipermodularyzacja
+# modularity vs hyper modularity
 
-- perfecjonista + modularyzacja
-
-upraszczać do granic możiwości
-niezależnym 
-żeby nie było bezuzyteczne
-
++ perfectionism in modularization 
++ simplify to the limit
++ give independence
++ that it should be still usefull 
 
 
 ## What is an application
@@ -30,13 +27,16 @@ An interface is a first layer to interact with an logic program.
 ## What is a module
 
 + an application extension
-fully functional inside application
++ works inside application
 
 
 ## What is a library
+
 it's a defined and good designed generic function/helper or many function focused on specific area 
 
+
 ## Helper
+
 Helper it's small generic part in context of proegram
 
 
@@ -51,17 +51,18 @@ It's an independent library to be use in a program
 modularistion is focuesn on grouping
 
 
-## Hipermodularity 
-+ is not just about grouping somethings,
+
+## Hyper modularity 
+
++ it's not just about grouping as model,
 + it's not just about extract small independent generic parts 
-+ its' about the best solution for specific usage such
++ its' about the best solution for specific usage
 
 
-
-## hipermodularity 
+## hyper modularity 
 
 huge result wiht litlle energy involved.
-+ that's the lever mechanism 
++ that's the leverage mechanism 
 
 
 
@@ -115,7 +116,7 @@ Most languages have modularity structures, such as packages in Java, with hyperm
 
 
 
-# Hipermodularity on monolith
+# Hypermodularity on monolith
 
 
 ## Packages, Dependencies, Classes
@@ -158,7 +159,7 @@ In the next chapter we're going to cover a critical type of module that you'll n
 
 
 
-# Hipermodularity on services layer
+# Hypermodularity on services layer
 
 
 
