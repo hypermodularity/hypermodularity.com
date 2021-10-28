@@ -23,7 +23,18 @@ Hypermodularity is an attractive principle for software and hardware architectur
 Modularity is a way to extract each part of code, such functions as a generic part instead of group related code together.
 Most languages have modularity structures, such as packages in Java, with hypermodularity we based ons separated functions.
 
-Architects need to be aware of how products are packaged by developers and it has major architectural consequences. 
+
+
+# Hipermodularity on monolith
+
+## Packages, Dependencies, Classes
+
+based on packages and namespaces the Classnames are overrided, but not each function/class method can be overrided.
+So we should based on sperated functions to make it.
+
+Going forward with such idea it's better to create each function separatly.
+
+In another way, The Architects need to be aware of how products are packaged by developers and it has major architectural consequences. 
 For example, if many packages are closely coupled together, it becomes more difficult to reuse one of them.
 
 
@@ -31,18 +42,26 @@ For example, if many packages are closely coupled together, it becomes more diff
 
 after era of structured programming languages developers started working with object-oriented languages, today there are so many different separation schemes, so it's easier to make one step forward to functional without some abstarctions such classes.
 
-
 Modula and Ada had a module programming structure, just like today's packages or namespaces.
 
 Object-oriented programming languages became popular when new ways of reusing code were introduced.
 
-A term used to describe code grouping is modularity. From a simplicity standpoint, grouping a large number of classes together in a monolithic application can make sense. However, when the time comes for the architecture to be restructured, the coupling becomes an obstacle to breaking the monolith apart. For software artifacts, such as components, classes, and so on, developers also need qualified names to differentiate different software artifacts from each other to reduce conflict.
+## modularity in practice
+
+A term used to describe code grouping is modularity.
+
+hyper modularization is the process of extracting the code into the smallest possible parts, e.g. extracting functions from classes meeting the expectations of "Single Responisbility" and "Dependency Injection" 
+
+From a simplicity standpoint, grouping a large number of classes together in a monolithic application can make sense. However, when the time comes for the architecture to be restructured, the coupling becomes an obstacle to breaking the monolith apart. For software artifacts, such as components, classes, and so on, developers also need qualified names to differentiate different software artifacts from each other to reduce conflict.
 
 
 
 ## The shared module
 
 In the next chapter we're going to cover a critical type of module that you'll need to create in any reasonably sized application: the shared module.
+
+
+# Hipermodularity on services layer
 
 
 ## AngularJS
