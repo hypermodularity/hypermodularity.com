@@ -1,12 +1,50 @@
 ![hypermodularity](https://logo.hypermodularity.com/2/cover.png)
 
 
-## hyper modularity process
+# [HyperModularity](https://www.hypermodularity.com/)
 
-+ Split the smallest possible reusable elements
+Hypermodularity is an attractive principle for software and hardware architecture
+
++ e.g. by assembling a infrastructure of organisation from a large amount of elements
+ 
 
 
-# modularity vs hyper modularity
+## Definition of Modularity in Software Architecture
+
+Modularity is a way to extract each part of code, such functions as a generic part instead of group related code together.
+Most languages have modularity structures, such as packages in Java, with hypermodularity we based ons separated functions.
+
+
+## Why make a Modularisation 
+
++ To provide a clear separation of concerns for the application's functionality
++ To easily implement app performance upgrades like code splitting and AoT compilation
+
+In fact, modularization is now such an important part of building web apps that Angular requires you to architect your applications with it out of the box!
+
+While AngularJS also had a module system, it was often ignored by developers as it often didn't provide enough advantages to make it completely necessary.
+
+
+
+## Benefits of Modualrization
+
++ the customized bricks are tested and ready to use
++ production cost are significantly decreased 
++ reliability of the system is increased due to fewer single points of failure. 
+
+
+## Satisfy Customers and Decrease Costs
+
+Modularization is a method that can be employed during the product development process to create innovative products that customers love, while keeping production costs low. 
+Key to a modular, customizable product is to identify which are the functions and parts of the product that are noticed and important to the customers. 
+The rest of the product should be kept standard for as many product lines as possible.
+That way you can offer your customers choices and give them a feeling of having this unique product they were looking for, while saving big in the background.
+
+https://brainmates.com.au/general/modularization-satisfy-customers-and-decrease-costs/
+
+
+
+# Modularity vs Hyper modularity
 
 + perfectionism in modularization 
 + simplify to the limit
@@ -19,32 +57,37 @@
 An apllication is a program with an interface
 
 
-## What is an interface
+## What is an Interface
 
 An interface is a first layer to interact with an logic program.
 
 
-## What is a module
+## What is a Module
 
 + an application extension
 + works inside application
 
 
-## What is a library
+## What is a Library
 
 it's a defined and good designed generic function/helper or many function focused on specific area 
 
 
-## Helper
+## What is a Helper
 
 Helper it's small generic part in context of program
 
 
-## What is a package
+## What is a Package
 
 It's an independent library to be use in a program
 
 
+
+# Hyper modularity process
+
+
++ Split the smallest possible reusable elements
 
 ## What is the different between Modularisation and hyper modularisation
 
@@ -53,66 +96,24 @@ while hyper modularization is focusing on *splitting* the specific parts
 
 
 
-## Hyper modularity 
+## What is a Hyper modularity 
 
 + it's not just about grouping as model,
 + it's not just about extract small independent generic parts 
 + its' about the best solution for specific usage
 
 
-## hyper modularity 
+## Hyper modularity results
 
 huge result wiht litlle energy involved.
 + that's the leverage mechanism 
 
 
 
-# [HyperModularity](https://www.hypermodularity.com/)
-
-Hypermodularity is an attractive principle for software and hardware architecture
-
-+ e.g. by assembling a infrastructure of organisation from a large amount of elements
- 
-
-
-# why make a modularisation 
-
-+ To provide a clear separation of concerns for the application's functionality
-+ To easily implement app performance upgrades like code splitting and AoT compilation
-
-In fact, modularization is now such an important part of building web apps that Angular requires you to architect your applications with it out of the box!
-
-While AngularJS also had a module system, it was often ignored by developers as it often didn't provide enough advantages to make it completely necessary.
-
-
-
-## some of the benefits:
-
-+ the customized bricks are tested and ready to use
-+ production cost are significantly decreased 
-+ reliability of the system is increased due to fewer single points of failure. 
-
-
-## Modularization – Satisfy Customers and Decrease Costs
-
-
-Modularization is a method that can be employed during the product development process to create innovative products that customers love, while keeping production costs low. 
-Key to a modular, customizable product is to identify which are the functions and parts of the product that are noticed and important to the customers. 
-The rest of the product should be kept standard for as many product lines as possible.
-That way you can offer your customers choices and give them a feeling of having this unique product they were looking for, while saving big in the background.
-
-https://brainmates.com.au/general/modularization-satisfy-customers-and-decrease-costs/
-
-
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_csdufwaz.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay></lottie-player>
 
 
-
-## Definition of Modularity in Software Architecture
-
-Modularity is a way to extract each part of code, such functions as a generic part instead of group related code together.
-Most languages have modularity structures, such as packages in Java, with hypermodularity we based ons separated functions.
 
 
 
