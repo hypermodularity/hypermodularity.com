@@ -1,5 +1,31 @@
 ![hypermodularity](https://logo.hypermodularity.com/2/cover.png)
 
+
+
+Porces hipermodularyzacji
+
++ Combining the smallest possible reusable elements
+
+
+Modularyzacja a hipermodularyzacja
+
+- perfecjonista + modularyzacja
+
+upraszczać do granic możiwości
+niezależnym 
+żeby nie było bezuzyteczne
+
+## Module
++ an application extension
+fully functional  inside application
+
+## Application
+An apllication is a program with an interface
+
+An interface is a first layer to interact with an logic program.
+
+
+
 # [HyperModularity](https://www.hypermodularity.com/)
 
 Hypermodularity is an attractive principle for software and hardware architecture
