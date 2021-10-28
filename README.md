@@ -7,7 +7,9 @@ Hypermodularity is an attractive principle for software and hardware architectur
 
 + e.g. by assembling a infrastructure of organisation from a large amount of elements
  
-
+Synonyms 
++ Super Modularity
++ Extreme Modularity
 
 ## Definition of Modularity in Software Architecture
 
@@ -107,7 +109,7 @@ while hyper modularization is focusing on *splitting* the specific parts
 
 huge result wiht litlle energy involved.
 + that's the leverage mechanism 
-
+Cost reduction, lifetime design, and radical hypermodularity, are some of our keys to maximizing platform scalability towards
 
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
@@ -196,7 +198,7 @@ The nanoservices based on existing infrastructure
 # Packages modularity
 
 
-## modulrity in existing packages
+## modularity in existing packages
 
 how to make it step by step
 
@@ -216,6 +218,66 @@ how to extract from one packages all of functions?
 + https://link.springer.com/article/10.1007/s10202-008-0065-z
 
 
+
+11 Principles Supported by Softreck's Extreme Manufacturing
+
+The Test Driven Design aspect and Contract First Manufacturing are unique
+
+## Contract-First Design
+design the interface to other modules before designing the module
+   
+## Test Driven Development
+design a series of tests that determines whether it will work, prior to doing design work
+   
+## Extreme Learning
+in order to further a zero-waste development process, we focuses on training in practice, we produce lean instructionals intended for rapid learning.
+This means that we optimize existing instructionals to facilitate the learning curve of advanced development techniques - especially with the interest of bringing people up to speed from zero. We like working with rapid-learning novices, as such people can become effective without the industrial inertia (old and prejudiced design ideas).
+   
+## Optimize for change
+agility, adaptability of design is foremost to achieve desired result (complete, functional, minimal viable product)
+   
+## Object-Oriented, Modular Architecture
+Modularity allows build a large system in parallel, as long as all the interfaces are well-defined for the modules. 
+Modularity allows for a complete Product Ecology to emerge - for closed-loop manufacturing cycles. 
+Modular architecture allows us to optimize 'borrowing' from other projects such that the development process is globally collaborative.
+   
+## Iterate the Design
+Create the test that your design should pass.
+Create the simplest design possible that enables the test to pass.
+Improve the design to be simpler or more elegant.  Repeat this process ("Iterate on the design") until improving this component is no longer the highest value work you can do.
+   
+## Agile Hardware Design Patterns
+wrapper (interface to the interface), common materials, tech recursion (invest in tools that make components and that make materials), 
+Lifetime Design (so that hardware can be repaired easily)
+   
+## Continuous Integration Development
+iterate continuously between product test, design, and manufacturing. This involves Design for Manufacturing, Design for Disassembly, Design for Fabricability, Design for Maintainability.
+Product Service Systems allows testing as a scalable enterprise model for open source hardware.
+Our current beta testing for build efficiency of this model is ongoing with our 
+Extreme Manufacturing Workshops.
+   
+## Continuously Deployed Development
+How to go to market fast? Flexible Fabrication concept. Digital fabrication assist. Open Design. Open Source R&D capacity, rapid prototyping, integrated R&D lab a la Edison.
+
+## Scaling Patterns 
+Create teams for each module. Teams can work in parallel. Multiple teams can work on same module. Different teams can work on different aspects - design, build, documentation, prototyping, testing. Teams should have open communication channels, such as Work Log on our wiki or Dozuki structure, or video uploads, plus Forums, Stack Exchange, Design Sprints, and Leader Training Workshops. 
+
+## Workshops Team and Customer
+Scrum of Scrums, Product Owner and Scrum Maseter. Clear Customer Visible Value is generated and iterated. 
+Chief Product Owner (CPO) sequences and refines the Portfolio Product Backlog continuously.
+User stories are the requirements. Scrum Masters negotiate with other Scrum Masters for resources. 
+All work completed satisfies the quality metric called the Definition of Done. Product owner maintains backlog and clarity. Scrum master maintains transparency of product delivery via documentation. Global remote effort can be maintained by heavy documentation typical of Open Source. 
+
+## Documentation Flow
+Heavy Documentation is Key to a Lean Process - which appears counterintuitive at first but is relevant to solving wicked problems.
+
+## Partner Patterns
+Easy sourcing from many partners. Wrapper is key to this flexibility - an interface of the interface design. 
+Design collaboration with industry. 
+University Collaborations for R&D. 
+Wide portfolio of Freelancers to do design, build, and service along a Product Service System model.
+
+
 # hyper modularity in another areas
 
 
@@ -224,8 +286,7 @@ how to extract from one packages all of functions?
     Types of Modular Design
     Modular Design in Advertising
     
-    
-    
+ 
 
 ## Books
 
