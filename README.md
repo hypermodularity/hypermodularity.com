@@ -37,7 +37,7 @@ it's a defined and good designed generic function/helper or many function focuse
 
 ## Helper
 
-Helper it's small generic part in context of proegram
+Helper it's small generic part in context of program
 
 
 ## What is a package
@@ -48,7 +48,8 @@ It's an independent library to be use in a program
 
 ## What is the different between Modularisation and hyper modularisation
 
-modularistion is focuesn on grouping
+modularization is focusing on *grouping* the generic parts 
+while hyper modularization is focusing on *splitting* the specific parts
 
 
 
