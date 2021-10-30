@@ -7,9 +7,14 @@ Hypermodularity is an attractive principle for software and hardware architectur
 
 + e.g. by assembling a infrastructure of organisation from a large amount of elements
  
-Synonyms 
+### Synonyms 
 + Super Modularity
 + Extreme Modularity
+
+### Tags:
+
++ Modular architecture
++ Architecture Flow
 
 ## Definition of Modularity in Software Architecture
 
@@ -17,7 +22,7 @@ Modularity is a way to extract each part of code, such functions as a generic pa
 Most languages have modularity structures, such as packages in Java, with hypermodularity we based ons separated functions.
 
 
-## Why make a Modularisation 
+## Why make a Modularization 
 
 + To provide a clear separation of concerns for the application's functionality
 + To easily implement app performance upgrades like code splitting and AoT compilation
@@ -28,7 +33,7 @@ While AngularJS also had a module system, it was often ignored by developers as 
 
 
 
-## Benefits of Modualrization
+## Benefits of Modularization
 
 + the customized bricks are tested and ready to use
 + production cost are significantly decreased 
@@ -287,10 +292,40 @@ Wide portfolio of Freelancers to do design, build, and service along a Product S
     Modular Design in Advertising
     
  
-# Network
+## Network
 
  Networks with high modularity have dense connections between the nodes within modules but sparse connections between nodes in different modules. Modularity is often used in optimization methods for detecting community structure in networks. However, it has been shown that modularity suffers a resolution limit and, therefore, it is unable to detect small communities. Biological networks, including animal brains, exhibit a high degree of modularity. 
  
+
+## Abstraction and AI
+
+abstraction is depends context, so it can be good in some context, not ewerywhere, that's why I support personally Native Technologies, Microsoftsolutions are full of abstractions, but AI don't need it, so what is the future?
+AI or Microsoft?
+
+
+## Modularity is the king
+
+That's why with modularity we can handle AI skills to build us better technology world, wit rapidly development and documented such describing world with words
+
+
+### for abstraction friends
+
+There is nothing wrong if abstraction is describing business logic for a human.
+We need it till AI is not used to create hypermodular application by itself.
+If AI is responsible for streaming application there si no more necessary to create abstraction.
+
+What AI need?
+native modular code written in native technologies.
+AI is build the businnes logic over personalisation based on BIG DATA
+It works such Black BOX with:
++ input
++ output
++ config
+
+
+## Saas is the king
+
++ [SaaS is King.com](https://www.saasisking.com/)
 
 ## Books
 
