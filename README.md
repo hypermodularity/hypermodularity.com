@@ -287,6 +287,10 @@ Wide portfolio of Freelancers to do design, build, and service along a Product S
     Modular Design in Advertising
     
  
+# Network
+
+ Networks with high modularity have dense connections between the nodes within modules but sparse connections between nodes in different modules. Modularity is often used in optimization methods for detecting community structure in networks. However, it has been shown that modularity suffers a resolution limit and, therefore, it is unable to detect small communities. Biological networks, including animal brains, exhibit a high degree of modularity. 
+ 
 
 ## Books
 
