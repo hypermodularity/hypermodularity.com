@@ -323,10 +323,6 @@ It works such Black BOX with:
 + config
 
 
-## Saas is the king
-
-+ [SaaS is King.com](https://www.saasisking.com/)
-
 ## Books
 
 + https://www.google.com/search?tbm=bks&q=modularity
@@ -343,10 +339,18 @@ Modularity: Understanding the Development and Evolution of Natural Complex Syste
 
 ---
 
-## Tom Sapletta
+## About Tom Sapletta
+
 + [Contact on linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
 + [Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.com/)
 + [Softreck Company - Leadership Through Software Development](https://softreck.com/)
+
+
+## Sponsored by:
+
++ [Softreck - Leadership Through Software Development](https://softreck.com/)
+
+
 
 
 ---
