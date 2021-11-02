@@ -35,7 +35,9 @@ What we want to get is the increease quality.
 
 
 ```
-Imagine your Company that is doing better service, automatic every day Based on Industry 4.0 and global communication based on 5g and 6g, which can grow without borders and continuously every day, hour and second.
+Imagine your Company that is doing better service, automatic every day Based on
+Industry 4.0 and global communication based on 5g and 6g, which can
+grow without borders and continuously every day, hour and second.
 ```
 
 With Continous hypermodularity we are going to defined smaller and better processes, that can work togheter without stopping them on the stream!
