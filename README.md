@@ -12,6 +12,29 @@ Hypermodularity it's about processes (object) not about processes (verb.)
 Hypermodularisation it's a continouous process focused on atomisation the architecture of system.
 
 
+I'ts like a rain-worm, you cutted it in the pieces and it still functions, but at a higher level
+
+You get a smaller part with the same functionality.
+
+And with smaller size are comming such benefits:
++ precize
++ more functionality
+
+What if i get more functionality at the same size.
+
+
+We atomize the objects to bring it to make them more specialised.
+
+and it's a sinn to atomize something's only if you can 
+
+
+The all questions are about hyper modularity.
+
+With hypermodularity we are going to 
+
+What we want to get is the increease quality.
+
+
 ### Synonyms 
 
 + Super Modularity
