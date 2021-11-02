@@ -9,6 +9,8 @@ Hypermodularity is an attractive principle for software and hardware architectur
  
 Hypermodularity it's about processes (object) not about processes (verb.)
 
+Hypermodularisation it's a continouous process focused on atomisation the architecture of system.
+
 
 ### Synonyms 
 
