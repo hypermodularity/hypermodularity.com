@@ -30,9 +30,14 @@ and it's a sinn to atomize something's only if you can
 
 The all questions are about hyper modularity.
 
-With hypermodularity we are going to 
 
 What we want to get is the increease quality.
+
+
+With Continous hypermodularity we are going to defined smaller and better processes, that can work togheter without stopping them on the stream!
+
+Imagine your company, that is doing better service, automaticlly every day
+With Industry 4.0 and global communication based on 5g and 6g we can growth without borders and continously every day.
 
 
 ### Synonyms 
