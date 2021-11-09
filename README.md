@@ -25,19 +25,17 @@ With the smaller size of a module the following benefits comming up.
 
 + modules get more specialised
 + such a specialisation brings about higher quality
++ 
 
-
-
-What if i get more functionality at the same size.
+What if I get more functionality at the same size.
 
 
 We atomize the objects to bring it to make them more specialised.
 
-and it's a sinn to atomize something's only if you can 
+It's a sinn to atomize something's only if you can 
 
 
 The all questions are about hyper modularity.
-
 
 What we want to get is the increease quality.
 
