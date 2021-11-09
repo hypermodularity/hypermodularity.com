@@ -29,11 +29,9 @@ With the smaller size of a module the following benefits comming up.
 
 What if I get more functionality at the same size.
 
-
 We atomize the objects to bring it to make them more specialised.
 
 It's a sinn to atomize something's only if you can 
-
 
 The all questions are about hyper modularity.
 
@@ -203,17 +201,12 @@ hyper modularization is the process of extracting the code into the smallest pos
 From a simplicity standpoint, grouping a large number of classes together in a monolithic application can make sense. However, when the time comes for the architecture to be restructured, the coupling becomes an obstacle to breaking the monolith apart. For software artifacts, such as components, classes, and so on, developers also need qualified names to differentiate different software artifacts from each other to reduce conflict.
 
 
-
 ## The shared module
 
 In the next chapter we're going to cover a critical type of module that you'll need to create in any reasonably sized application: the shared module.
 
 
-
-
-
 # Hypermodularity on services layer
-
 
 
 ##  Modularized and decentralized architecture based on micro- and nano- services.
@@ -229,9 +222,13 @@ In the next chapter we're going to cover a critical type of module that you'll n
 What is the differend
 
 On microservices we are working with packages and many classes to build some independent part osf system which can be independet service
+
 + DB
+
 + Auth
+
 + + roles
+
 
 ## layers
 
@@ -244,6 +241,7 @@ We call it annoservices
 The nanoservices based on existing infrastructure
 
 
+
 # Packages modularity
 
 
@@ -252,8 +250,6 @@ The nanoservices based on existing infrastructure
 how to make it step by step
 
 how to extract from one packages all of functions?
-
-
 
 
 ## Articles
@@ -267,64 +263,88 @@ how to extract from one packages all of functions?
 + https://link.springer.com/article/10.1007/s10202-008-0065-z
 
 
-
 11 Principles Supported by Softreck's Extreme Manufacturing
 
 The Test Driven Design aspect and Contract First Manufacturing are unique
 
+
 ## Contract-First Design
+
 design the interface to other modules before designing the module
-   
+
+
 ## Test Driven Development
+
 design a series of tests that determines whether it will work, prior to doing design work
    
+
 ## Extreme Learning
+
 in order to further a zero-waste development process, we focuses on training in practice, we produce lean instructionals intended for rapid learning.
 This means that we optimize existing instructionals to facilitate the learning curve of advanced development techniques - especially with the interest of bringing people up to speed from zero. We like working with rapid-learning novices, as such people can become effective without the industrial inertia (old and prejudiced design ideas).
-   
+
+
 ## Optimize for change
+
 agility, adaptability of design is foremost to achieve desired result (complete, functional, minimal viable product)
-   
+
+
 ## Object-Oriented, Modular Architecture
+
 Modularity allows build a large system in parallel, as long as all the interfaces are well-defined for the modules. 
 Modularity allows for a complete Product Ecology to emerge - for closed-loop manufacturing cycles. 
 Modular architecture allows us to optimize 'borrowing' from other projects such that the development process is globally collaborative.
    
+   
 ## Iterate the Design
+
 Create the test that your design should pass.
 Create the simplest design possible that enables the test to pass.
 Improve the design to be simpler or more elegant.  Repeat this process ("Iterate on the design") until improving this component is no longer the highest value work you can do.
    
 ## Agile Hardware Design Patterns
+
 wrapper (interface to the interface), common materials, tech recursion (invest in tools that make components and that make materials), 
 Lifetime Design (so that hardware can be repaired easily)
-   
+  
+  
 ## Continuous Integration Development
+
 iterate continuously between product test, design, and manufacturing. This involves Design for Manufacturing, Design for Disassembly, Design for Fabricability, Design for Maintainability.
 Product Service Systems allows testing as a scalable enterprise model for open source hardware.
 Our current beta testing for build efficiency of this model is ongoing with our 
 Extreme Manufacturing Workshops.
    
+ 
 ## Continuously Deployed Development
+
 How to go to market fast? Flexible Fabrication concept. Digital fabrication assist. Open Design. Open Source R&D capacity, rapid prototyping, integrated R&D lab a la Edison.
 
-## Scaling Patterns 
+## Scaling Patterns
+
 Create teams for each module. Teams can work in parallel. Multiple teams can work on same module. Different teams can work on different aspects - design, build, documentation, prototyping, testing. Teams should have open communication channels, such as Work Log on our wiki or Dozuki structure, or video uploads, plus Forums, Stack Exchange, Design Sprints, and Leader Training Workshops. 
 
+
 ## Workshops Team and Customer
+
 Scrum of Scrums, Product Owner and Scrum Maseter. Clear Customer Visible Value is generated and iterated. 
 Chief Product Owner (CPO) sequences and refines the Portfolio Product Backlog continuously.
 User stories are the requirements. Scrum Masters negotiate with other Scrum Masters for resources. 
 All work completed satisfies the quality metric called the Definition of Done. Product owner maintains backlog and clarity. Scrum master maintains transparency of product delivery via documentation. Global remote effort can be maintained by heavy documentation typical of Open Source. 
 
+
 ## Documentation Flow
+
 Heavy Documentation is Key to a Lean Process - which appears counterintuitive at first but is relevant to solving wicked problems.
 
+
 ## Partner Patterns
+
 Easy sourcing from many partners. Wrapper is key to this flexibility - an interface of the interface design. 
 Design collaboration with industry. 
 University Collaborations for R&D. 
 Wide portfolio of Freelancers to do design, build, and service along a Product Service System model.
+
 
 
 # hyper modularity in another areas
@@ -336,10 +356,13 @@ Wide portfolio of Freelancers to do design, build, and service along a Product S
     Modular Design in Advertising
     
  
+
+
 ## Network
 
  Networks with high modularity have dense connections between the nodes within modules but sparse connections between nodes in different modules. Modularity is often used in optimization methods for detecting community structure in networks. However, it has been shown that modularity suffers a resolution limit and, therefore, it is unable to detect small communities. Biological networks, including animal brains, exhibit a high degree of modularity. 
  
+
 
 ## Abstraction and AI
 
@@ -347,9 +370,11 @@ abstraction is depends context, so it can be good in some context, not ewerywher
 AI or Microsoft?
 
 
+
 ## Modularity is the king
 
 That's why with modularity we can handle AI skills to build us better technology world, wit rapidly development and documented such describing world with words
+
 
 
 ### for abstraction friends
