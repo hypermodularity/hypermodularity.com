@@ -3,9 +3,13 @@
 
 # [HyperModularity](https://www.hypermodularity.com/)
 
-Hypermodularity is an attractive principle for software and hardware architecture
+Hypermodularity is an attractive principle for software and hardware architecture.
 
-+ e.g. by assembling a infrastructure of organisation from a large amount of elements
+Infrastructure of an organisation 
+
++ e.g by assembling the infrastructure of an organisation from a large amount of elements.
+ 
+ 
  
 Hypermodularity it's about processes (object) not about processes (verb.)
 
