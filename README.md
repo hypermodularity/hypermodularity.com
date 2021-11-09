@@ -21,7 +21,7 @@ I'ts like a rain-worm, you cutted into the pieces and it still functions, but at
 You get a smaller part with the same functionality.
 
 
-With the smaller size of module the following benefits comming up.
+With the smaller size of a module the following benefits comming up.
 
 + modules get more specialised
 + such a specialisation brings about higher quality
