@@ -10,19 +10,23 @@ Infrastructure of an organisation
 + e.g by assembling the infrastructure of an organisation from a large amount of elements.
  
  
- 
-Hypermodularity it's about processes (object) not about processes (verb.)
+Hypermodularity is about objects not about actions, we combine processes with objects.
 
-Hypermodularisation it's a continouous process focused on atomisation the architecture of system.
+Hypermodularisation is a continouous process focused on atomisation of the system objects.
 
 
-I'ts like a rain-worm, you cutted it in the pieces and it still functions, but at a higher level
+I'ts like a rain-worm, you cutted into the pieces and it still functions, but at a higher level
+
 
 You get a smaller part with the same functionality.
 
-And with smaller size are comming such benefits:
-+ precize
-+ more functionality
+
+With the smaller size of module the following benefits comming up.
+
++ modules get more specialised
++ such a specialisation brings about higher quality
+
+
 
 What if i get more functionality at the same size.
 
