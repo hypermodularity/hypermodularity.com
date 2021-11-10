@@ -58,10 +58,18 @@ With Continous hypermodularity we are going to defined smaller and better proces
 + Modular architecture
 + Architecture Flow
 
+
 ## Definition of Modularity in Software Architecture
 
 Modularity is a way to extract each part of code, such functions as a generic part instead of group related code together.
 Most languages have modularity structures, such as packages in Java, with hypermodularity we based ons separated functions.
+
+## Architecture of Systems, level of Modularisation
+
++ At class level - hide its state behind methods,
++ At the module level - hide its classes behind the module API,
++ At the system level - hide its modules behind the system API,
++ Encapsulating at different levels of architecture makes it possible to tackle complexity.
 
 
 ## Why make a Modularization 
