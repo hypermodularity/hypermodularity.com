@@ -64,12 +64,6 @@ With Continous hypermodularity we are going to defined smaller and better proces
 Modularity is a way to extract each part of code, such functions as a generic part instead of group related code together.
 Most languages have modularity structures, such as packages in Java, with hypermodularity we based ons separated functions.
 
-## Architecture of Systems, level of Modularisation
-
-+ At class level - hide its state behind methods,
-+ At the module level - hide its classes behind the module API,
-+ At the system level - hide its modules behind the system API,
-+ Encapsulating at different levels of architecture makes it possible to tackle complexity.
 
 
 ## Why make a Modularization 
@@ -172,6 +166,18 @@ Cost reduction, lifetime design, and radical hypermodularity, are some of our ke
 
 
 
+## Architecture of Systems, level of Modularisation
+
+Module API can be invoked not only via HTTP API but via different infrastructure adapters
+It's important to distinguish between different APIs (and contracts) on different levels.
+
+Depending system the modules might be hidden.
+It might be delegated to the messaging/event infrastructure altogether.
+
++ At class level - hide its state behind methods,
++ At the module level - hide its classes behind the module API,
++ At the system level - hide its modules behind the system API,
++ Encapsulating at different levels of architecture makes it possible to tackle complexity.
 
 
 
