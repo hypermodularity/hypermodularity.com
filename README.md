@@ -1,5 +1,10 @@
 ![hypermodularity](https://logo.hypermodularity.com/2/cover.png)
 
++ What is Modular Design
++ Modular Design in Different Forms
++ Types of Modular Design
++ Modular Design in Advertising
+
 
 # [HyperModularity](https://www.hypermodularity.com/)
 
