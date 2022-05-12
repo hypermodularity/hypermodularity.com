@@ -104,6 +104,18 @@ That way you can offer your customers choices and give them a feeling of having 
 https://brainmates.com.au/general/modularization-satisfy-customers-and-decrease-costs/
 
 
+# The way
+
+Some people are doing many things during whole life and some are just enjoy awhile.
+
+How to focus on continuous development?
+
+When you are a parent, you don't have many hours at your disposal, rather they are torn quarters of an hour.
+
+That's why I decided to write a book about it: Hypermodularisation in real projects, exactly what give me many benefits to finish a project in small steps, even you have the family ...
+
+
+
 
 # Modularity vs Hyper modularity
 
