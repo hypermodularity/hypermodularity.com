@@ -42,6 +42,34 @@ The all questions are about hyper modularity.
 
 What we want to get is the increease quality.
 
+## Process over code
+
+What I can propose is to build the code based on DSL and prepare a documentation based on patterns.
+I read a book about SCRUM (https://www.amazon.de/Scrum-Doing-Twice-Work-Half/dp/B00NTP70AQ) 
+and must say that the scrum can't improve it, so what can help? maybe some methodology to improve the communication on processes,
+where meet all people, so this is what I call #hypermodularity, what can to improve the process not just a code.
+
+
+
+## For whom?
+
+
+Some people are doing many things during whole life and some are just enjoy awhile.
+
+Some colleage was very effective at work
+I was surprised he had a family and 2 childrens.
+Looks like to have family give the power and determination to reach the goals!
+
+I see the same in my case,
+There is documented coincides with the establishment and expansion of the family.
+Wife and 2 childrens don't stopped my carrer, but helped increase the number of implemented projects.
+ 
+It's very wondering experience for me.
+
+When you are a parent, you don't have many hours at your disposal, rather they are torn quarters of an hour.
+That's why I decided to write a book about it: Hypermodularisation in real projects, exactly what give me many benefits to finish a project in small steps, even you have the family ...
+
+
 
 ## Imagine it
 
