@@ -6,6 +6,7 @@
 + Modular Design in Advertising
 
 
+
 # [HyperModularity](https://www.hypermodularity.com/)
 
 Hypermodularity is an attractive principle for software and hardware architecture.
@@ -15,6 +16,22 @@ Infrastructure of an organisation
 + e.g by assembling the infrastructure of an organisation from a large amount of elements.
  
  
+## What Does Modularity Mean?
+
+In software engineering, modularity refers to the extent to which a software/Web application may be divided into smaller modules. Software modularity indicates that the number of application modules are capable of serving a specified business domain.
+
+Modularity is successful because developers use prewritten code, which saves resources. Overall, modularity provides greater software development manageability.
+
+Modern business issues grow on a continuous basis - in terms of size, complexity and demand. Enhanced software capability requirements force developers to enhance developed systems with new functionalities.
+
+Software engineering modularity allows typical applications to be divided into modules, as well as integration with similar modules, which helps developers use prewritten code. Modules are divided based on functionality, and programmers are not involved with the functionalities of other modules. Thus, new functionalities may be easily programmed in separate modules.
+
++ [What is Modularity? - Definition from Techopedia](https://www.techopedia.com/definition/24772/modularity)
+
+
+
+## About Hypermodularity
+
 Hypermodularity is about objects not about actions, we combine processes with objects.
 
 Hypermodularisation is a continouous process focused on atomisation of the system objects.
