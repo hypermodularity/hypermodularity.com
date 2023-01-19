@@ -39,6 +39,16 @@ In object-oriented programming, the use of interfaces as an architectural patter
 + [Modular programming - Wikipedia](https://en.wikipedia.org/wiki/Modular_programming)
 
 
+## Modular Design
+
+
+Modular design allows for modifications to systems, recombination of existing capabilities and upgrade of system elements, to enable competition, innovation, rapidly responding to a changing environment, etc.(see also Systems Engineering (SE) Guidebook, Section 2.2.5 Modular Open Systems Approach). Designing for modularity is a key technical principle for implementing a modular open systems approach (MOSA) and is a complementary piece to the open system practices in contracting. The major tenet of a modular design strategy is to develop loosely coupled modules, where modules can be decoupled, separated or even re-arranged in a major system platform and major system components developed under the program, as well as major system components developed outside the program that will be integrated into the Major Defense Acquisition Program (MDAP). When designing for modularity, the system should be appropriately partitioned into discrete, scalable, self-contained functional elements by decomposing and decoupling the functions of a system. This functional partitioning results in elements that can now be composed into modules that can be reconfigured or even replaced.
+
+Acquisition programs implementing a modular design provide flexible system designs, which allow for the replacement or recombination of subsystems and components. It is important for the program management to understand the expected benefit from modular design as part of implementing a MOSA strategy. This understanding provides guidance to the system realization, on which enabling elements (e.g., standards, contract clauses, engineering tools, etc.) to use. MOSA benefits are usually categorized into six individually useful areas, which often overlap: risk reduction; cost savings/cost avoidance; increased competition; enhanced interoperability; application of innovative elements; and ability to realize technology upgrade opportunities easily.
+
++ [Modular Design](https://www.dau.edu/tools/se-brainbook/Pages/Design%20Considerations/Modular-Design.aspx)
+
+
 ## About Hypermodularity
 
 Hypermodularity is about objects not about actions, we combine processes with objects.
