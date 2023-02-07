@@ -8,6 +8,19 @@
 + Modular Design in Advertising
 
 
++ multimodularity
+
+Multimodularity is the ability of a system to be composed of multiple, distinct modules that can be combined and recombined to create different configurations. This allows for flexibility and scalability, as well as the ability to modify or add components without having to completely rebuild the system.
+
+
++ hypermodularity
+
+Hypermodularity is a concept in which a system is composed of multiple, loosely coupled modules that can be connected and recombined in a variety of ways. This allows for a high degree of flexibility and scalability, as well as the ability to modify or add components without having to completely rebuild the system.
+
++ differents between multimodularity and hypermodularity
+
+The main difference between multimodularity and hypermodularity is in the degree of coupling between the modules. Multimodularity is composed of distinct modules that are tightly coupled and cannot be easily recombined, while hypermodularity is composed of loosely coupled modules that can be connected and recombined in a variety of ways. Hypermodularity provides a higher degree of flexibility and scalability.
+
 
 # [HyperModularity](https://www.hypermodularity.com/)
 
