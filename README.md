@@ -9,6 +9,54 @@
 
 
 
+
+The architecture of highly modularized, easily reconfigurable, highly decoupled, self-contained and reusable components is referred to as a microservices architecture.
+
+### Component-Oriented Design - COD
+
+Software design approach that focuses on designing highly modularized, easily reconfigurable, highly decoupled, self-contained and reusable components we call Component-Oriented Design (COD).
+Component based development is growing in popularity. And it presents a viable alternative to choosing between a monolith and microservices. 
+
+### Why Use Component Based Architecture?
+
+In this book, we present the benefits of component based development and how teams can switch to a component based architecture in few steps.
+
+#### benefits
+
+Component based architecture stays up-to-date, without rebuilding it from the scratch. 
+
+That makes component based architecture a better fit for large, complex system
+
+The modular components can be combined, decoupled, reused
+
+How to Design Component-Oriented Software?
+
+how to move to component based development from your existing monolith?
+
++ do not refactor, build a new smaller modules
++ connect a component/package/service in a logical stream of process
++ adopt the new function/logic throughout the process
++ support both the old and the new models simultaneously through format data
+
+
+### Steps to a Successful Migration
+
+When it comes to breaking up your monolith into component based development:
+
++    Focus on software delivery approaches and upskilling team members.
++    Build out the minimum infrastructure needed to deliver independently deployable components (e.g., containerized microservices) that expose self-service APIs.
++    Start tracking technical issues for new and legacy, including:
++        Counting errors released to production.
++        Service availability.
++        Time to remediate.
++    Consider cloud deployment options (as appropriate).
++    Implement basic monitoring for new and legacy.
++    Implement automation wherever possible.
++    Migrate in atomic steps.
+    
+
+
+
 + about modular programming principles
 
 Modular programming is a software engineering approach that involves breaking down a program into functional, independent modules. Each module is designed to be highly decoupled and self-contained, which allows it to be reused and reconfigured with ease.
