@@ -8,6 +8,23 @@
 + Modular Design in Advertising
 
 
+### macromodularity and hypermodularity
+
++ what mean macromodularity?
+
+Macromodularity is a software design approach that focuses on designing large and complex systems by breaking them down into smaller components, or modules. It is a way of organizing software components into distinct parts that can be built, tested, and maintained separately, while still working together as part of the larger system. This approach can help software developers create more robust and maintainable systems.
+
++ what mean hypermodularity?
+
+Hypermodularity is a software engineering and architecture approach that is focused on dynamically creating and managing flexible, modular software systems. It involves building software components as highly independent, loosely coupled modules, and then using a platform or framework to dynamically manage how those modules interact and work together. This approach allows for more flexibility and scalability than traditional monolithic software architectures.
+
+
++ What are a differences between macromodularity and hypermodularity?
+
+The main difference between macromodularity and hypermodularity is in the level of granularity of the modules. Macromodularity is focused on breaking down large and complex systems into smaller components, while hypermodularity is focused on creating highly independent and loosely coupled modules. Additionally, macromodularity focuses on static module design, while hypermodularity is focused on dynamic module design and management.
+
+### multimodularity and hypermodularity
+
 + multimodularity
 
 Multimodularity is the ability of a system to be composed of multiple, distinct modules that can be combined and recombined to create different configurations. This allows for flexibility and scalability, as well as the ability to modify or add components without having to completely rebuild the system.
