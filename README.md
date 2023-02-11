@@ -8,6 +8,24 @@
 + Modular Design in Advertising
 
 
+### macromodules and hypermodules
+
+
++ what are macromodules?
+
+Macromodules are collections of components or modules that have been grouped together in order to form a larger, more complex system. They are typically used to create a system that is more efficient and cost effective than if the components were bought and assembled separately. Examples of macromodules include CPUs, memory boards, and hard disks.
+
++ what are hypermodules?
+
+Hypermodules are collections of modules that have been grouped together to form a larger system that is more complex than a single module. They are typically used when a system needs to be highly modularized and easily reconfigurable, such as in an Artificial Intelligence (AI) application. Examples of hypermodules include neural networks, fuzzy logic systems, and computer vision systems.
+
+
+
++ what are a differences between macromodules and hypermodules?
+
+The main difference between macromodules and hypermodules is in the complexity of the system they are used to create. Macromodules typically consist of components that are already integrated and are designed to create a single, larger system, while hypermodules are designed to be reconfigurable and modularized, allowing for more complex systems to be created. Additionally, macromodules are usually designed to be as cost effective as possible, while hypermodules are typically designed for speed and accuracy.
+
+
 ### supermodules and hypermodules?
 
 + what are supermodules?
