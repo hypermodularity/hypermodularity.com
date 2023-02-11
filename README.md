@@ -12,6 +12,15 @@
 
 The architecture of highly modularized, easily reconfigurable, highly decoupled, self-contained and reusable components is referred to as a microservices architecture.
 
+##  [Component-based software engineering - Wikipedia](https://en.wikipedia.org/wiki/Component-based_software_engineering)
+
+> **Component-based software engineering** (**CBSE**), also called **component-based development** (**CBD**), is a branch of software engineering that emphasizes the [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns "Separation of concerns") with respect to the wide-ranging functionality available throughout a given [software system](https://en.wikipedia.org/wiki/Software_system "Software system"). It is a reuse-based approach to defining, implementing and composing loosely coupled independent components into systems. This practice aims to bring about an equally wide-ranging degree of benefits in both the short-term and the long-term for the software itself and for organizations that sponsor such software.
+> 
+> Software engineering practitioners regard components as part of the starting platform for [service-orientation](https://en.wikipedia.org/wiki/Service-orientation "Service-orientation"). Components play this role, for example, in [web services](https://en.wikipedia.org/wiki/Web_service "Web service"), and more recently, in [service-oriented architectures](https://en.wikipedia.org/wiki/Service-oriented_architecture "Service-oriented architecture") (SOA), whereby a component is converted by the web service into a _service_ and subsequently inherits further characteristics beyond that of an ordinary component.
+> 
+> Components can produce or consume events and can be used for [event-driven architectures](https://en.wikipedia.org/wiki/Event-driven_architecture "Event-driven architecture") (EDA).
+
+
 ### Component-Oriented Design - COD
 
 Software design approach that focuses on designing highly modularized, easily reconfigurable, highly decoupled, self-contained and reusable components we call Component-Oriented Design (COD).
