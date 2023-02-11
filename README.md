@@ -8,6 +8,19 @@
 + Modular Design in Advertising
 
 
+
++ about modular programming principles
+
+Modular programming is a software engineering approach that involves breaking down a program into functional, independent modules. Each module is designed to be highly decoupled and self-contained, which allows it to be reused and reconfigured with ease.
+
+
+A web application can be broken down into several smaller modules, such as a user authentication module, a content module, a payments module, and so on. Each module is designed to be independent and reusable, so that the overall application can be easily reconfigured or extended as needed.
+
+
+A game engine can be broken down into several smaller modules, such as a graphics engine, a physics engine, a sound engine, and so on. Each module is designed to be independent and reusable, so that the overall engine can be easily reconfigured or extended as needed.
+
+
+
 ### macromodules and hypermodules
 
 
