@@ -8,6 +8,23 @@
 + Modular Design in Advertising
 
 
+### supermodules and hypermodules?
+
++ what are supermodules?
+
+Supermodules are a type of software module that is designed to be highly reusable, self-contained, and scalable. They are typically composed of multiple smaller modules that are connected together in order to perform a specific function or set of functions. Supermodules are designed to be used in multiple applications and to be easily customized and integrated into existing software.
+
+
++ what are hypermodules?
+
+Hypermodules are a type of software module that is designed to be highly extensible and configurable. Unlike supermodules, hypermodules are not necessarily self-contained, but rather require other modules in order to function properly. Hypermodules are typically used to extend and enhance existing software applications, allowing them to perform more complex tasks than they would be able to do on their own.
+
+
++ What are a differences between supermodules and hypermodules?
+
+The main difference between supermodules and hypermodules is that supermodules are self-contained and typically used in multiple applications, while hypermodules require other modules in order to function properly and are typically used to extend and enhance existing software applications. Supermodules are also typically designed to be highly reusable, while hypermodules are designed to be highly extensible and configurable.
+
+
 ### macromodularity and hypermodularity
 
 + what mean macromodularity?
