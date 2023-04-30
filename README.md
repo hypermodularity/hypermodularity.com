@@ -3,14 +3,15 @@
 ![hypermodularity](hyper-modularity-cover1.png)
 
 
-+ modular architecture and hypermodularity 
++ Modular architecture and hypermodularity 
++ Examples of modularity and hypermodularity
 + What is Modular Design
 + Modular Design in Different Forms
 + Types of Modular Design
 + Modular Design in Advertising
 
 
-## modular architecture and hypermodularity 
+## Modular architecture and hypermodularity 
 
 modular architecture refers to the design of a system that is composed of independent units that can be combined to create a larger and more complex system. These independent units are called modules and can be easily replaced or modified without affecting the entire system. 
 
@@ -38,6 +39,25 @@ The benefits of hypermodularity include:
 
 In summary, modular architecture and hypermodularity are important concepts for DevOps, hardware, and software developers. They offer significant benefits in terms of flexibility, scalability, reusability, maintenance, agility, resilience, customization, and collaboration. By adopting these approaches, developers can create robust, adaptable, and efficient systems that meet the needs of their customers and businesses.
 
+## Examples of modularity and hypermodularity
+
+
+
+### Modularity:
+
+1. A content management system (CMS) that uses modular architecture to allow users to easily add or remove modules for different features such as e-commerce, social media integration, and search engine optimization (SEO).
+
+2. A modular smartphone that allows users to easily switch out components such as the camera, battery, or processor, without having to replace the entire device.
+
+3. A car built with modular architecture that allows for easy replacement of parts such as the engine, transmission, or suspension, without having to replace the entire vehicle.
+
+### Hypermodularity:
+
+1. A microservices-based architecture that breaks down a software application into small, independent services that can be developed and deployed separately, communicating with each other through APIs.
+
+2. A modular data center that uses hypermodularity to break down the infrastructure into smaller, specialized components such as power distribution, cooling, networking, and storage, allowing for greater flexibility and scalability.
+
+3. A smart home system that uses hypermodularity to allow users to easily add or remove devices such as smart lights, thermostats, and security cameras, and integrate them with other devices through a central hub.
 
 
 ## The architecture of highly modularized, easily reconfigurable, highly decoupled, self-contained and reusable components is referred to as a microservices architecture.
