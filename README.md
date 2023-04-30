@@ -2,7 +2,8 @@
 
 ![hypermodularity](hyper-modularity-cover1.png)
 
-
++ Modular architecture and hypermodularity 
++ Benefits of hypermodularity
 + Modular architecture and hypermodularity in Software Devlopment
 + Modularity and hypermodularity in Hardware development
 + Modularity and hypermodularity in the daily routine of a person working with people
@@ -21,19 +22,29 @@
 
 ## Modular architecture and hypermodularity 
 
-modular architecture refers to the design of a system that is composed of independent units that can be combined to create a larger and more complex system. These independent units are called modules and can be easily replaced or modified without affecting the entire system. 
+modular architecture refers to the design of a system that is composed of independent units that can be combined to create a larger and more complex system. 
+These independent units are called modules and can be easily replaced or modified without affecting the entire system. 
 
 The benefits of modular architecture include:
 
-### Flexibility: Modular architecture allows for easy modification and customization of a system. Adding new features, upgrading components, and fixing bugs can be done without disrupting the entire system.
+### Flexibility: 
+Modular architecture allows for easy modification and customization of a system. Adding new features, upgrading components, and fixing bugs can be done without disrupting the entire system.
 
-### Scalability: Modular architecture supports scalability. It allows for the addition of new modules to the system, making it capable of handling increased workload.
+### Scalability: 
+Modular architecture supports scalability. 
+It allows for the addition of new modules to the system, making it capable of handling increased workload.
 
-### Reusability: Modules can be used in different systems or applications, saving time and resources in the development process.
+### Reusability: 
+Modules can be used in different systems or applications, saving time and resources in the development process.
 
-### Maintenance: Modular architecture simplifies maintenance. The system can be easily maintained by replacing or updating the affected module without affecting the entire system.
+### Maintenance: 
+Modular architecture simplifies maintenance. 
+The system can be easily maintained by replacing or updating the affected module without affecting the entire system.
 
 Hypermodularity, on the other hand, takes modular architecture to the next level. It goes beyond the traditional modular approach and involves breaking down a system into smaller, more specialized modules. These modules are designed to work together seamlessly, creating a highly flexible and adaptable system.
+
+
+## Benefits of hypermodularity
 
 The benefits of hypermodularity include:
 
