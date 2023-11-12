@@ -3,7 +3,8 @@
 + reusable metamodules in research, development and management
 
 
-![Hyper Modularity Book Cover(1)](https://github.com/hypermodularity/www/assets/5669657/bb424fd8-a6f4-4e98-a4ba-6c9b3045cfcd)
+![Hyper Modularity Book Cover(2)](https://github.com/hypermodularity/www/assets/5669657/c6464457-96b3-4d9a-950f-6518c3078f53)
+
 
 ---
 ---
