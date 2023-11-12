@@ -24,10 +24,10 @@ Ta książka jest właśnie dla Was!
 + architektów kosmicznej stacji SSP (Space Solar Power)
 + projektantów i programistów modularnego oprogramowania
 
-
 ---
 
 **Tom Sapletta** jest programistą od dziecka, od lat 90', ma za sobą prawie **2 dekady** doświadczenia zawodowego w międzynarodowych zespołach jako DevOps, programista java, kotlin, python, javascript, php, perl, ...
+
 W tej książce dzieli się doświadczeniem w projektowaniu i rozwijaniu **hipermodularnych** sieci oprogramowania.
 
 
