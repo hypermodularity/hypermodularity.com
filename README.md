@@ -16,18 +16,30 @@ Wielu z nas zna te doniesienia medialne, zwłaszcza Ci, ze świata technologii i
 
 Ta książka jest właśnie dla Was!
 
-Dla poszukujących spersonalizowanych rozwiązań, pozwalających na skalowanie infrastruktury dla globalnego biznesu, Twojego biznesu!
-Zapraszam do zapoznania się z rozwiązaniami, które dają korzyści w dłuższym okresie czasu, bo tak jak OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat...
+Dla poszukujących spersonalizowanych rozwiązań, pozwalających na skalowanie infrastruktury dla globalnego biznesu, 
+**Twojego** biznesu!
+
+OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat tak, jak wobec tego skutecznie skalować mały biznes usługowy SaaS do skali globalnej?
+
+Jaką architekturę przyjąć, jakimi zasadami się kierować, jakich motedyk użyć i jaką strategię przyjąć?
+
+Zapraszam do zapoznania się z odpowiedziami na te i inne pytania...
+
+Zapraszam do odkrycia świata Hipermodularnego, gdzie poprzez tworzenie autonomicznych procesów w postaci cyfrowego bliźniaka możesz skalować kolejne obszary projeku, organizacji, życia...
+
+---
 
 O tym jak budować podobnie złożone projekty dowiesz się z tej książki, a o tym jaki wpływ będą miały opisane metody i rozwiązania w Twoim projekcie, niezależnie od branży, możesz podzielić się na forum dla praktyków, developerów hipermodularyzacji
 
 Dziś dzielę się tym unikalnym doświadczeniem o którym w skali globu nie znajdziemy informacji!
 Opisuję jak dotrzeć do sedna problemu, rozbić go na atomy i dowieźć rozwiązanie do klienta w sposób zautomatyzoany.
+Poprzez zarządzanie najmniejszymi elementami, oszczędzasz czas i zwiększasz jakość budując zautomatzyowany biznes nawet w warunkach garażowych.
 Cykl wytwarzania oprogramowania zmienia się nieustannie, tutaj otrzymujesz dostęp do wiedzy popartej doświadczeniem prawie 2 dekad zawodowej pracy Software Developera, DevOps-a, researcher-a.
 
 
 
 ## This book answers these questions
+
 
 + What is Modular Design
 + Modular Design in Different Forms
