@@ -21,17 +21,19 @@ Wielu z nas zna te doniesienia medialne, wielu chciałoby również pochwalić s
 
 Ta książka jest właśnie dla Was!
 
-Dla osób:
-+ poszukujących spersonalizowanych rozwiązań
-+ optymalizujących procesy w dużej skali
++ Dla osób poszukujących **spersonalizowanych usług** i **optymalizujących procesy** w dużej skali
++ Dla **architektów** modularnych systemów, **projektantów** i **deweloperów** modularnego oprogramowania
++ I tych, którzy chcą nauczyć się zawodu przyszłości: **projektanta systemów modularnych**.
 
-Dla specjalistów:
-+ architektów modularnych systemów, np. kosmicznej stacji SSP (Space Solar Power)
-+ projektantów i programistów modularnego oprogramowania
 
-I tych, którzy chcą nauczyć się zawodu przyszłości: **projektanta systemów modularnych**.
+Hipermodularne systemy są stosowane w projektach, m.in.
++ kosmicznej stacji do zbierania energii słonecznej (Space Solar Power, SSP) 
++ w tworzenie skalowalnych i łatwych w utrzymaniu systemów poprzez zastosowanie reużywalnych komponentów i mikrousług,
++ w rozwoju wysoko konfigurowalnych i elastycznych platform, które mogą być szybko adaptowane do zmieniających się wymagań technologicznych i rynkowych.
++ spersanolizowanych i globalnych platform sprzedażowych
 
 ---
+
 
 **Tom Sapletta** programuje od czasów zx-spectrum, commodore i atari, ma za sobą prawie **2 dekady** doświadczenia zawodowego w międzynarodowych zespołach jako DevOps, programista java, kotlin, python, javascript, php, perl, ...
 
@@ -78,6 +80,7 @@ Więcej:
 
 
 ---
+Systemy hipermodularne cechują się zdolnością do elastycznego konfigurowania i skalowania oraz często zastosowaniem w środowiskach wymagających niezwykłej niezawodności i adaptacji.
 
 Poprzez opisane metody i rozwiązania, dowiesz się jak optymalizować złożone projekty, niezależnie od branży.
 W tej publikacji opisuję jak dotrzeć do sedna problemu, rozbić go na atomy i dowieźć rozwiązanie do klienta w sposób zautomatyzowany.
