@@ -1,10 +1,10 @@
-![hypermodularity book](https://github.com/hypermodularity/www/assets/5669657/0505a333-cf90-4488-a7bf-cdf7fc8fc6c4)
-
 # Hyper Modularity book by Tom Sapletta
 + How to design self-managed modular distributed systems?
 + reusable metamodules in research, development and management
 
-## Second Cover
+![hypermodularity book](https://github.com/hypermodularity/www/assets/5669657/0505a333-cf90-4488-a7bf-cdf7fc8fc6c4)
+
+---
 
 Co przyniesie rok 2222?
 
@@ -27,7 +27,7 @@ Ta książka jest właśnie dla Was!
 **Tom Sapletta** jest programistą od dziecka, lat 90', po prawie 2 dekadach pracy zawodowej w międzynarodowych zespołach jako DevOps, Software Development java, kotlin, python, javascript, php, perl dzieli się doświadczeniem w hipermodularnym projektowaniu i rozwijaniu sieci oprogramowania.
 Z autorem książki można się spotkać i porozmawiać online lub offline, ale codziennie jest dostępny na forum dla praktyków, developerów hipermodularyzacji: hypermodular.com
 
-
+---
 
 
 ## This book answers these questions
