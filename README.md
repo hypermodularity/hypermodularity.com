@@ -41,7 +41,7 @@ Autor publikuje na [blog.hypermodular.com](http://blog.hypermodular.com) i dysku
 
 ---
 Więcej:
-+ Zakup książki: [hypermodularity.com](http://www.hypermodularity.com/?2023)
++ Zakup książki: [buy.hypermodularity.com](http://buy.hypermodularity.com/?2023)
 + Materiały do pobrania [download.hypermodularity.com](http://download.hypermodularity.com)
 + Projekt na github [github/hypermodularity](http://www.github.com/hypermodularity)
 
