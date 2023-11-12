@@ -6,6 +6,7 @@
 
 ---
 ---
+---
 
 Co przyniesie rok 2222?
 
@@ -17,11 +18,9 @@ Wielu z nas zna te doniesienia medialne, zwłaszcza Ci, ze świata technologii I
 
 Ta książka jest właśnie dla Was!
 
-+ Dla poszukujących spersonalizowanych rozwiązań, pozwalających na skalowanie infrastruktury dla globalnego biznesu, 
-**Twojego** biznesu!
++ poszukujących spersonalizowanych rozwiązań dla globalnego biznesu, **Twojego** biznesu!
 + architektów kosmicznej stacji SSP (Space Solar Power)
 + managerów, optymalizujących procesy
-+ prowadzących i optymalizujących biznes do skali globalnej
 
 ---
 
