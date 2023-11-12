@@ -27,9 +27,9 @@ Ta książka jest właśnie dla Was!
 
 ---
 
-**Tom Sapletta** jest programistą od dziecka, od lat 90', ma za sobą prawie **2 dekady** doświadczenia zawodowego w międzynarodowych zespołach jako DevOps, programista java, kotlin, python, javascript, php, perl, 
+**Tom Sapletta** jest programistą od dziecka, od lat 90', ma za sobą prawie **2 dekady** doświadczenia zawodowego w międzynarodowych zespołach jako DevOps, programista java, kotlin, python, javascript, php, perl, ...
 W tej książce dzieli się doświadczeniem w projektowaniu i rozwijaniu **hipermodularnych** sieci oprogramowania.
-...
+
 
 Z autorem książki można się spotkać i porozmawiać online lub offline, codziennie jest dostępny na forum praktyków i developerów hipermodularyzacji: hypermodular.com
 
