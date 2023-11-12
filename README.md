@@ -25,11 +25,10 @@ Ta książka jest właśnie dla Was!
 + Dla **architektów** modularnych systemów
 + Dla **deweloperów** modularnego oprogramowania
 
-Chcących nauczyć się zawodu przyszłości: **projektanta systemów modularnych** w przykładowych projektach:
-+ kosmiczna stacja do zbierania energii słonecznej (Space Solar Power, SSP) 
-+ spersonalizowana sieć reużywalnych komponentów w sieciach SD-WAN 5G/6G
-+ optymalizacja sieci autonomicznych usług dla asystentów i robotów
-+ personalizacja usług w oparciu o cyfrowego bliźniaka
+Chcących nauczyć się zawodu przyszłości: **projektanta systemów modularnych** dla:
++ budowy kosmicznej stacji do zbierania energii słonecznej (Space Solar Power, SSP) 
++ optymalizacji sieci autonomicznych usług dla asystentów i robotów
++ personalizacji usług w oparciu o cyfrowego bliźniaka
 
 ---
 
