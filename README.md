@@ -19,8 +19,8 @@ Wielu z nas zna te doniesienia medialne, zwłaszcza Ci, ze świata technologii I
 
 Ta książka jest właśnie dla Was!
 
++ poszukujących spersonalizowanych i reużywalnych rozwiązań
 + optymalizujących procesy dla biznesu w globalnej skali 
-+ poszukujących spersonalizowanych i reużywalnych rozwiązań 
 + architektów kosmicznej stacji SSP (Space Solar Power)
 + projektantów i programistów modularnego oprogramowania
 
