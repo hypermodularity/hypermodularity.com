@@ -17,7 +17,7 @@ Rok 2022 przyniósł aplikacji ChatGPT pierwszy milion użytkowników w ciągu *
 Po dwóch miesiącach aplikacja osiągnęła poziom **100 mln** użytkowników, bijąc tym samym rekord!
 TikTok, dotychczasowy lider, na uzyskanie takiego zainteresowania potrzebował 9 miesięcy, Instagram 2,5 roku, a Facebook około 5 lat.
 
-Wielu pamięta te doniesienia medialne, wielu chciałoby również pochwalić się takim wzrostem w najbliższych miesiącach a nie w roku 2222 :) 
+Wielu pamięta te doniesienia medialne, wielu chciałoby również pochwalić się takim wzrostem w najbliższych miesiącach a nie latach, bynamniej w roku 2222 :) 
 
 Ta książka jest właśnie dla Was!
 
