@@ -31,7 +31,7 @@ Ta książka jest właśnie dla Was!
 W tej książce dzieli się doświadczeniem w projektowaniu i rozwijaniu **hipermodularnych** sieci oprogramowania.
 
 
-Autor książki jest prawie codziennie dostępny na forum praktyków i developerów hipermodularyzacji: hypermodular.com
+Jest codziennie dostępny na forum praktyków i developerów hipermodularyzacji: hypermodular.com
 
 ---
 
