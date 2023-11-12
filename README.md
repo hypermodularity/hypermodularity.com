@@ -27,7 +27,7 @@ Ta książka jest właśnie dla Was!
 
 Uczących się zawodu przyszłości: **projektanta systemów modularnych** w celu:
 + budowy kosmicznej stacji do zbierania energii słonecznej (Space Solar Power, SSP) 
-+ optymalizacji sieci autonomicznych usług dla asystentów i robotów
++ optymalizacji sieci autonomicznych usług dla maszyn i ludzi
 + personalizacji usług w oparciu o cyfrowego bliźniaka
 
 ---
