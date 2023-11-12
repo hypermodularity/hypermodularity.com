@@ -22,6 +22,33 @@ Ta książka jest właśnie dla Was!
 + managerów, optymalizujących procesy
 + właścicieli biznesów, optymalizujących biznes do skali globalnej?
 
+---
+
+**Tom Sapletta** jest programistą od dziecka, lat 90', po prawie 2 dekadach pracy zawodowej w międzynarodowych zespołach jako DevOps, Software Development java, kotlin, python, javascript, php, perl dzieli się doświadczeniem w hipermodularnym projektowaniu i rozwijaniu sieci oprogramowania.
+Z autorem książki można się spotkać i porozmawiać online lub offline, ale codziennie jest dostępny na forum dla praktyków, developerów hipermodularyzacji: hypermodular.com
+
+
+
+
+## This book answers these questions
+
+
++ What is Modular Design
++ Modular Design in Different Forms
++ Types of Modular Design
++ Modular Design in Advertising
+
+
+---
+
+Poprzez opisane metody i rozwiązania, dowiesz się jak optymalizować złożone projekty, niezależnie od branży.
+W tej publikacji opisuję jak dotrzeć do sedna problemu, rozbić go na atomy i dowieźć rozwiązanie do klienta w sposób zautomatyzowany.
+Poprzez zarządzanie najmniejszymi elementami, oszczędzasz czas i zwiększasz jakość budując zautomatzyowany biznes nawet w warunkach garażowych.
+Cykl wytwarzania oprogramowania zmienia się nieustannie, tutaj otrzymujesz dostęp do wiedzy popartej doświadczeniem prawie 2 dekad zawodowej pracy Software Developera, DevOps-a, researcher-a.
+
+
+ 
+
 Niezależnie do tego zajmujesz się oprogramowaniem, czy sprzętem, hipermodularyzacja pomaga w tworzeniu reużywalnych, wyspecjalizowanych elementów, obniżając koszty produkcji i rozwoju, zwiększając niezawodność systemu dzięki mniejszej liczbie pojedynczych punktów awarii.
 
 OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat ...
@@ -36,33 +63,6 @@ Nawet jeśli dziś zaczynasz sam to być może zadajesz sobie pytania:
 Zapraszam do zapoznania się z odpowiedziami na te i inne pytania...
 
 Zapraszam do odkrycia świata Hipermodularnego, gdzie poprzez tworzenie autonomicznych procesów, cyfrowych bliźniaków możesz skupić się na kolejne obszary projeku, organizacji, życia...
-
----
-
-Poprzez opisane metody i rozwiązania, dowiesz się jak optymalizować złożone projekty, niezależnie od branży.
-W tej publikacji opisuję jak dotrzeć do sedna problemu, rozbić go na atomy i dowieźć rozwiązanie do klienta w sposób zautomatyzowany.
-Poprzez zarządzanie najmniejszymi elementami, oszczędzasz czas i zwiększasz jakość budując zautomatzyowany biznes nawet w warunkach garażowych.
-Cykl wytwarzania oprogramowania zmienia się nieustannie, tutaj otrzymujesz dostęp do wiedzy popartej doświadczeniem prawie 2 dekad zawodowej pracy Software Developera, DevOps-a, researcher-a.
-
-
- 
-
-
----
-
-O Autorze
-
-Tom Sapletta jest programistą od dziecka, lat 90', po prawie 2 dekadach pracy zawodowej w międzynarodowych zespołach jako DevOps, Software Development java, kotlin, python, javascript, php, perl dzieli się doświadczeniem w hipermodularnym projektowaniu i rozwijaniu sieci oprogramowania.
-Z autorem książki można się spotkać i porozmawiać online lub offline, ale codziennie jest dostępny na forum dla praktyków, developerów hipermodularyzacji: hypermodular.com
-
-## This book answers these questions
-
-
-+ What is Modular Design
-+ Modular Design in Different Forms
-+ Types of Modular Design
-+ Modular Design in Advertising
-
 
 
 
