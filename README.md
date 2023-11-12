@@ -18,11 +18,11 @@ Ta książka jest właśnie dla Was!
 
 + Dla poszukujących spersonalizowanych rozwiązań, pozwalających na skalowanie infrastruktury dla globalnego biznesu, 
 **Twojego** biznesu!
++ architektów kosmicznej stacji SSP (Space Solar Power)
++ managerów, optymalizujących procesy
++ właścicieli biznesów, optymalizujących biznes do skali globalnej?
 
-+ jesteś architektem kosmicznej stacji SSP (Space Solar Power)?
-+ chcesz optymalnie skalować mały lokalny biznes do skali globalnej?
-
-Czy to oprogramowanie, czy sprzęt, hipermodularyzacja pomaga w tworzeniu reużywalnych, wyspecjalizowanych elementów, obniżając koszty produkcji i rozwoju, zwiększając niezawodność systemu dzięki mniejszej liczbie pojedynczych punktów awarii.
+Niezależnie do tego zajmujesz się oprogramowaniem, czy sprzętem, hipermodularyzacja pomaga w tworzeniu reużywalnych, wyspecjalizowanych elementów, obniżając koszty produkcji i rozwoju, zwiększając niezawodność systemu dzięki mniejszej liczbie pojedynczych punktów awarii.
 
 OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat ...
 
