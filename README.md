@@ -19,9 +19,11 @@ Wielu z nas zna te doniesienia medialne, zwłaszcza Ci, ze świata technologii I
 
 Ta książka jest właśnie dla Was!
 
-+ poszukujących spersonalizowanych rozwiązań dla globalnego biznesu, **Twojego** biznesu!
++ optymalizujących procesy dla biznesu w globalnej skali 
++ poszukujących spersonalizowanych i reużywalnych rozwiązań 
 + architektów kosmicznej stacji SSP (Space Solar Power)
-+ managerów, optymalizujących procesy
++ projektantów i programistów modularnego oprogramowania
+
 
 ---
 
