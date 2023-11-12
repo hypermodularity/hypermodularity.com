@@ -25,7 +25,7 @@ Ta książka jest właśnie dla Was!
 + Dla **architektów** modularnych systemów
 + Dla **deweloperów** modularnego oprogramowania
 
-Chcących nauczyć się zawodu przyszłości: **projektanta systemów modularnych** dla:
+Uczących się zawodu przyszłości: **projektanta systemów modularnych** w celu:
 + budowy kosmicznej stacji do zbierania energii słonecznej (Space Solar Power, SSP) 
 + optymalizacji sieci autonomicznych usług dla asystentów i robotów
 + personalizacji usług w oparciu o cyfrowego bliźniaka
