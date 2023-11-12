@@ -21,7 +21,9 @@ Ta książka jest właśnie dla Was!
 
 OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat ...
 
-+ wobec tego skutecznie skalować mały biznes usługowy SaaS do skali globalnej?
++ jak optymalnie skalować mały lokalny biznes typu SaaS do skali globalnej?
+
+Nawet jeśli dziś zaczynasz sam to być może zadajesz sobie pytania:
 
 + jaką architekturę wybrać?
 + jakimi zasadami się kierować?
@@ -36,11 +38,16 @@ Zapraszam do odkrycia świata Hipermodularnego, gdzie poprzez tworzenie autonomi
 
 O tym jak budować podobnie złożone projekty dowiesz się z tej książki, a o tym jaki wpływ będą miały opisane metody i rozwiązania w Twoim projekcie, niezależnie od branży, możesz podzielić się na forum dla praktyków, developerów hipermodularyzacji
 
-Dziś dzielę się tym unikalnym doświadczeniem o którym w skali globu nie znajdziemy informacji!
-Opisuję jak dotrzeć do sedna problemu, rozbić go na atomy i dowieźć rozwiązanie do klienta w sposób zautomatyzoany.
+Dziś dzielę się tym unikalnym doświadczeniem, o którym dziś w skali globu nie znajdziemy obszernych informacji!
+W tej publikacji opisuję jak dotrzeć do sedna problemu, rozbić go na atomy i dowieźć rozwiązanie do klienta w sposób zautomatyzowany.
 Poprzez zarządzanie najmniejszymi elementami, oszczędzasz czas i zwiększasz jakość budując zautomatzyowany biznes nawet w warunkach garażowych.
 Cykl wytwarzania oprogramowania zmienia się nieustannie, tutaj otrzymujesz dostęp do wiedzy popartej doświadczeniem prawie 2 dekad zawodowej pracy Software Developera, DevOps-a, researcher-a.
 
+---
+
+O Autorze
+
+Tom Sapletta jest programistą od dziecka, lata 90', po prawie 2 dekadach pracy zawodowej w międzynarodowych zespołach jako DevOps, Software Development java, kotlin, python, javascript, php, perl dzieli się doświadczeniem w hipermodularnym projektowaniu i rozwijaniu sieci oprogramowania.
 
 
 ## This book answers these questions
