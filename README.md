@@ -15,23 +15,23 @@ Rok 2022 przyniósł ChatGPT pierwszy milion użytkowników w ciągu **5 dni** o
 Po dwóch miesiącach aplikacja osiągnęła poziom **100 mln** użytkowników, bijąc tym samym rekord!
 TikTok, dotychczasowy lider, na uzyskanie takiego zainteresowania potrzebował 9 miesięcy, Instagram 2,5 roku, a Facebook około 5 lat.
 
-Wielu z nas zna te doniesienia medialne, zwłaszcza Ci, ze świata technologii IT, być może w przyszłości rownież chcielibyśmy pochwalić się takim wzrostem, najlepiej w najbliższych miesiącach czy latach a nie w roku 2222 :) 
+Wielu z nas zna te doniesienia medialne, wielu chciałoby również pochwalić się takim wzrostem w najbliższych miesiącach a nie w roku 2222 :) 
 
 Ta książka jest właśnie dla Was!
 
-+ poszukujących spersonalizowanych i reużywalnych rozwiązań
-+ optymalizujących procesy dla biznesu w globalnej skali 
++ osób poszukujących spersonalizowanych rozwiązań
++ osób optymalizujących procesy dużej skali 
 + architektów kosmicznej stacji SSP (Space Solar Power)
 + projektantów i programistów modularnego oprogramowania
 
 ---
 
-**Tom Sapletta** jest programistą od dziecka, od lat 90', ma za sobą prawie **2 dekady** doświadczenia zawodowego w międzynarodowych zespołach jako DevOps, programista java, kotlin, python, javascript, php, perl, ...
+**Tom Sapletta** jest programistą od czasów zx-spectrum, commodore i atari, ma za sobą prawie **2 dekady** doświadczenia zawodowego w międzynarodowych zespołach jako DevOps, programista java, kotlin, python, javascript, php, perl, ...
 
 W tej książce dzieli się doświadczeniem w projektowaniu i rozwijaniu **hipermodularnych** sieci oprogramowania.
 
 
-Z autorem książki można się spotkać i porozmawiać online lub offline, codziennie jest dostępny na forum praktyków i developerów hipermodularyzacji: hypermodular.com
+Autor książki jest prawie codziennie dostępny na forum praktyków i developerów hipermodularyzacji: hypermodular.com
 
 ---
 
