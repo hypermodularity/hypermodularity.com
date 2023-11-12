@@ -1,7 +1,7 @@
 ![hypermodularity](https://logo.hypermodularity.com/2/cover.png)
 
-![hypermodularity](hyper-modularity-cover1.png)
 
+![hypermodularity book](https://github.com/hypermodularity/www/assets/5669657/218ad65b-51bc-455d-8660-0207acb6a130)
 
 + What is Modular Design
 + Modular Design in Different Forms
