@@ -22,15 +22,13 @@ Wielu pamięta te doniesienia medialne, wielu chciałoby również pochwalić si
 Ta książka jest właśnie dla Was!
 
 + Dla osób **optymalizujących** procesy dla **spersonalizowanych** usług
-+ Dla **architektów** modularnych systemów i **deweloperów** modularnego oprogramowania
-+ I tych, którzy chcą nauczyć się zawodu przyszłości: **projektanta systemów modularnych**.
++ Dla **architektów** modularnych systemów
++ Dla **deweloperów** modularnego oprogramowania
 
-
-Hipermodularne systemy są stosowane w projektach, m.in.
-+ w kosmicznej stacji do zbierania energii słonecznej (Space Solar Power, SSP) 
-+ w utrzymaniu systemów poprzez zastosowanie reużywalnych komponentów
-+ w personalizacji usług pod zmieniające się potrzeby klienta
-
+Wszystkich tych, którzy chcą nauczyć się zawodu przyszłości: **projektanta systemów modularnych** w takich projektach, jak:
++ kosmiczna stacja do zbierania energii słonecznej (Space Solar Power, SSP) 
++ spersonalizowana sieć reużywalnych komponentów oprogramowania w systemach SaaS
++ personalizacja usług w oparciu o cyfrowego bliźniaka
 
 ---
 
