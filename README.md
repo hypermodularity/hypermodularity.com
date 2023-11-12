@@ -42,7 +42,7 @@ Autor publikuje na [blog.hypermodular.com](http://blog.hypermodular.com) i dysku
 ---
 Więcej na:
 + zakup książki: [hypermodularity.com](http://www.hypermodularity.com/?2023)
-+ materiały do pobrania [github/hypermodularity](http://www.github.com/hypermodularity)
++ materiały do pobrania [github/hypermodularity](http://www.github.com/hypermodularity/download)
 
 
 ---
