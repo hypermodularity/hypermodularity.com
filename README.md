@@ -16,12 +16,17 @@ Wielu z nas zna te doniesienia medialne, zwłaszcza Ci, ze świata technologii i
 
 Ta książka jest właśnie dla Was!
 
-Dla poszukujących spersonalizowanych rozwiązań, pozwalających na skalowanie infrastruktury dla globalnego biznesu, 
++ Dla poszukujących spersonalizowanych rozwiązań, pozwalających na skalowanie infrastruktury dla globalnego biznesu, 
 **Twojego** biznesu!
 
-OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat tak, jak wobec tego skutecznie skalować mały biznes usługowy SaaS do skali globalnej?
+OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat ...
 
-Jaką architekturę przyjąć, jakimi zasadami się kierować, jakich motedyk użyć i jaką strategię przyjąć?
++ wobec tego skutecznie skalować mały biznes usługowy SaaS do skali globalnej?
+
++ jaką architekturę wybrać?
++ jakimi zasadami się kierować?
++ jakich motedyk użyć?
++ i jaką strategię przyjąć?
 
 Zapraszam do zapoznania się z odpowiedziami na te i inne pytania...
 
