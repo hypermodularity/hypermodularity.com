@@ -23,13 +23,13 @@ Ta książka jest właśnie dla Was!
 
 Dla osób:
 + poszukujących spersonalizowanych rozwiązań
-+ optymalizujących procesy dużej skali
-+ obawiających się utraty pracy z powodu AI
++ optymalizujących procesy w dużej skali
 
 Dla specjalistów:
 + architektów modularnych systemów, w tym. kosmicznej stacji SSP (Space Solar Power)
 + projektantów i programistów modularnego oprogramowania
 
+I tych, którzy obawiają się utraty pracy z powodu AI i chcą już dziś uczyć się jednogo z zawodów przyszłości: architekta systemów modularnych.
 
 ---
 
