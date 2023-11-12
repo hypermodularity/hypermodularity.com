@@ -1,14 +1,40 @@
 ![hypermodularity book](https://github.com/hypermodularity/www/assets/5669657/0505a333-cf90-4488-a7bf-cdf7fc8fc6c4)
 
-# Hyper Modularity book by Tom Sapletta, 
+# Hyper Modularity book by Tom Sapletta
 + How to design self-managed modular distributed systems?
 + reusable metamodules in research, development and management
 
+## Second Cover
+
+Co przyniesie rok 2222?
+
+Rok 2022 przyniósł ChatGPT pierwszy milion użytkowników w ciągu **5 dni** od jej publicznego udostępnienia.
+Po dwóch miesiącach aplikacja osiągnęła poziom **100 mln** użytkowników, bijąc tym samym rekord!
+TikTok, dotychczasowy lider, na uzyskanie takiego zainteresowania potrzebował 9 miesięcy, Instagram 2,5 roku, a Facebook około 5 lat.
+
+Wielu z nas zna te doniesienia medialne, zwłaszcza Ci, ze świata technologii i w przyszłości rownież chcielibyśmy pochwalić się takim sukcesem i to nie w roku 2222 :) ale już w najbliższych miesiącach czy latach.
+
+Ta książka jest właśnie dla Was!
+
+Ciekawych dopasowanych i spersonalizowanych rozwiązań, pozwalających na skalowanie infrastruktury globalnego biznesu, Twojego biznesu!
+Zapraszam do zapoznania się z rozwiązaniami, które dają korzyści w dłuższym okresie czasu, bo tak jak OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat...
+
+O tym jak budować podobnie złożone projekty dowiesz się z tej książki, a o tym jaki wpływ będą miały opisane metody i rozwiązania w Twoim projekcie, niezależnie od branży, możesz podzielić się na forum dla praktyków, developerów hipermodularyzacji
+
+Dziś dzielę się tym unikalnym doświadczeniem o którym w skali globu nie znajdziemy informacji!
+Opisuję jak dotrzeć do sedna problemu, rozbić go na atomy i dowieźć rozwiązanie do klienta w sposób zautomatyzoany.
+Cykl wytwarzania oprogramowania zmienia się nieustannie, tutaj otrzymujesz dostęp do wiedzy popartej doświadczeniem prawie 2 dekad zawodowej pracy Software Developera, DevOps-a, researcher-a.
+
+
+
 ## This book answers these questions
+
 + What is Modular Design
 + Modular Design in Different Forms
 + Types of Modular Design
 + Modular Design in Advertising
+
+
 
 
 ## The Benefits of using hypermodular approach:
