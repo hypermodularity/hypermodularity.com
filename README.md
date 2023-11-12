@@ -37,7 +37,7 @@ I tych, którzy chcą nauczyć się zawodu przyszłości: **projektanta systemó
 
 W tej książce dzieli się doświadczeniem w projektowaniu i rozwijaniu **hipermodularnych** sieci oprogramowania.
 
-Autor publikuje na [blog.hypermodular.com](http://blog.hypermodular.com) i dyskutuje z praktykami hipermodularyzacji na [forum.hypermodular.com](forum.hypermodular.com)
+Autor publikuje na [blog.hypermodular.com](http://blog.hypermodular.com) i dyskutuje z czytelnikami hipermodularyzacji na [forum.hypermodular.com](forum.hypermodular.com)
 
 ---
 Więcej na:
