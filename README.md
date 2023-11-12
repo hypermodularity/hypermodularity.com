@@ -29,7 +29,7 @@ Ta książka jest właśnie dla Was!
 Hipermodularne systemy są stosowane w projektach, m.in.
 + kosmicznej stacji do zbierania energii słonecznej (Space Solar Power, SSP) 
 + w utrzymaniu systemów poprzez zastosowanie reużywalnych komponentów i mikrousług,
-+ w rozwoju spersanalizowanych usług dopasowanych do zmieniających się potrzeb klienta
++ w rozwoju spersonalizowanych usług dopasowanych do zmieniających się potrzeb klienta
 
 
 ---
