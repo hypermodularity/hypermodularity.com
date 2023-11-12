@@ -21,10 +21,11 @@ Wielu pamięta te doniesienia medialne, wielu chciałoby również pochwalić si
 
 Ta książka jest właśnie dla Was!
 
-+ Dla osób **optymalizujących** procesy **spersonalizowanych** usług
-+ Dla **architektów** autonomicznych i modularnych systemów
-+ Dla **deweloperów** modularnego oprogramowania
-+ Dla Uczących się zawodu przyszłości: **projektanta systemów modularnych** w celu:
++ osób **optymalizujących** procesy **spersonalizowanych** usług
++ **architektów** autonomicznych i modularnych systemów
++ **deweloperów** modularnego oprogramowania
+
+Dla **projektanta systemów modularnych** zawodu przyszłości, z umiejętnościami:
  + budowy kosmicznej stacji do zbierania energii słonecznej (Space Solar Power, SSP) 
  + optymalizacji sieci autonomicznych usług dla maszyn i ludzi
  + personalizacji usług w oparciu o cyfrowego bliźniaka
