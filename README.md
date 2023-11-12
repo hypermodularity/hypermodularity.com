@@ -1,5 +1,10 @@
-![hypermodularity book](https://github.com/hypermodularity/www/assets/5669657/218ad65b-51bc-455d-8660-0207acb6a130)
+![hypermodularity book](https://github.com/hypermodularity/www/assets/5669657/0505a333-cf90-4488-a7bf-cdf7fc8fc6c4)
 
+# Hyper Modularity book by Tom Sapletta, 
++ How to design self-managed modular distributed systems?
++ reusable metamodules in research, development and management
+
+## This book answers these questions
 + What is Modular Design
 + Modular Design in Different Forms
 + Types of Modular Design
