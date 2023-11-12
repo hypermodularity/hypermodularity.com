@@ -22,7 +22,7 @@ Wielu pamięta te doniesienia medialne, wielu chciałoby również pochwalić si
 Ta książka jest właśnie dla Was!
 
 + Dla osób **optymalizujących** procesy dla **spersonalizowanych** usług
-+ Dla **architektów** modularnych systemów, **projektantów** i **deweloperów** modularnego oprogramowania
++ Dla **architektów** modularnych systemów i **deweloperów** modularnego oprogramowania
 + I tych, którzy chcą nauczyć się zawodu przyszłości: **projektanta systemów modularnych**.
 
 
