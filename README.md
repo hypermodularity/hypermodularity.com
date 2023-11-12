@@ -2,7 +2,8 @@
 + How to design self-managed modular distributed systems?
 + reusable metamodules in research, development and management
 
-![hypermodularity book](https://github.com/hypermodularity/www/assets/5669657/0505a333-cf90-4488-a7bf-cdf7fc8fc6c4)
+
+![Hyper Modularity Book Cover(1)](https://github.com/hypermodularity/www/assets/5669657/bb424fd8-a6f4-4e98-a4ba-6c9b3045cfcd)
 
 ---
 ---
