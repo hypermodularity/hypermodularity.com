@@ -40,9 +40,9 @@ W tej książce dzieli się doświadczeniem w projektowaniu i rozwijaniu **hiper
 Autor publikuje na [blog.hypermodular.com](http://blog.hypermodular.com) i dyskutuje z czytelnikami hipermodularyzacji na [forum.hypermodular.com](forum.hypermodular.com)
 
 ---
-Więcej na:
-+ zakup książki: [hypermodularity.com](http://www.hypermodularity.com/?2023)
-+ materiały do pobrania [download.hypermodularity.com](http://download.hypermodularity.com)
+Więcej:
++ Zakup książki: [hypermodularity.com](http://www.hypermodularity.com/?2023)
++ Materiały do pobrania [download.hypermodularity.com](http://download.hypermodularity.com)
 + Projekt na github [github/hypermodularity](http://www.github.com/hypermodularity)
 
 
