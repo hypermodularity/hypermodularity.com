@@ -19,9 +19,12 @@ Ta książka jest właśnie dla Was!
 + Dla poszukujących spersonalizowanych rozwiązań, pozwalających na skalowanie infrastruktury dla globalnego biznesu, 
 **Twojego** biznesu!
 
-OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat ...
++ jesteś architektem kosmicznej stacji SSP (Space Solar Power)?
++ chcesz optymalnie skalować mały lokalny biznes do skali globalnej?
 
-+ jak optymalnie skalować mały lokalny biznes typu SaaS do skali globalnej?
+Czy to oprogramowanie, czy sprzęt, hipermodularyzacja pomaga w tworzeniu reużywalnych, wyspecjalizowanych elementów, obniżając koszty produkcji i rozwoju, zwiększając niezawodność systemu dzięki mniejszej liczbie pojedynczych punktów awarii.
+
+OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat ...
 
 Nawet jeśli dziś zaczynasz sam to być może zadajesz sobie pytania:
 
@@ -37,11 +40,13 @@ Zapraszam do odkrycia świata Hipermodularnego, gdzie poprzez tworzenie autonomi
 ---
 
 O tym jak budować podobnie złożone projekty dowiesz się z tej książki, a o tym jaki wpływ będą miały opisane metody i rozwiązania w Twoim projekcie, niezależnie od branży, możesz podzielić się na forum dla praktyków, developerów hipermodularyzacji
-
-Dziś dzielę się tym unikalnym doświadczeniem, o którym dziś w skali globu nie znajdziemy obszernych informacji!
 W tej publikacji opisuję jak dotrzeć do sedna problemu, rozbić go na atomy i dowieźć rozwiązanie do klienta w sposób zautomatyzowany.
 Poprzez zarządzanie najmniejszymi elementami, oszczędzasz czas i zwiększasz jakość budując zautomatzyowany biznes nawet w warunkach garażowych.
 Cykl wytwarzania oprogramowania zmienia się nieustannie, tutaj otrzymujesz dostęp do wiedzy popartej doświadczeniem prawie 2 dekad zawodowej pracy Software Developera, DevOps-a, researcher-a.
+
+
+
+
 
 ---
 
