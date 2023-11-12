@@ -36,7 +36,8 @@ Dla specjalistów:
 **Tom Sapletta** programuje od czasów zx-spectrum, commodore i atari, ma za sobą prawie **2 dekady** doświadczenia zawodowego w międzynarodowych zespołach jako DevOps, programista java, kotlin, python, javascript, php, perl, ...
 
 W tej książce dzieli się doświadczeniem w projektowaniu i rozwijaniu **hipermodularnych** sieci oprogramowania.
-Autor jest dostępny online na forum praktyków i developerów hipermodularyzacji: hypermodular.com
+
+Autor publikuje na [blog.hypermodular.com](http://blog.hypermodular.com) i dyskutuje z praktykami hipermodularyzacji na [forum.hypermodular.com](forum.hypermodular.com)
 
 ---
 
