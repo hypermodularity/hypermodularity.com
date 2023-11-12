@@ -8,7 +8,6 @@
 ---
 ---
 ---
----
 
 Co przyniesie rok 2222?
 
