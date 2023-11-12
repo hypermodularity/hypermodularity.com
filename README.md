@@ -16,7 +16,7 @@ Wielu z nas zna te doniesienia medialne, zwłaszcza Ci, ze świata technologii i
 
 Ta książka jest właśnie dla Was!
 
-Ciekawych dopasowanych i spersonalizowanych rozwiązań, pozwalających na skalowanie infrastruktury globalnego biznesu, Twojego biznesu!
+Dla poszukujących spersonalizowanych rozwiązań, pozwalających na skalowanie infrastruktury dla globalnego biznesu, Twojego biznesu!
 Zapraszam do zapoznania się z rozwiązaniami, które dają korzyści w dłuższym okresie czasu, bo tak jak OpenAI nie powstało wczoraj i pracowało na ten sukces wiele lat...
 
 O tym jak budować podobnie złożone projekty dowiesz się z tej książki, a o tym jaki wpływ będą miały opisane metody i rozwiązania w Twoim projekcie, niezależnie od branży, możesz podzielić się na forum dla praktyków, developerów hipermodularyzacji
