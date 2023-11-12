@@ -52,7 +52,7 @@ Cykl wytwarzania oprogramowania zmienia się nieustannie, tutaj otrzymujesz dost
 
 O Autorze
 
-Tom Sapletta jest programistą od dziecka, lata 90', po prawie 2 dekadach pracy zawodowej w międzynarodowych zespołach jako DevOps, Software Development java, kotlin, python, javascript, php, perl dzieli się doświadczeniem w hipermodularnym projektowaniu i rozwijaniu sieci oprogramowania.
+Tom Sapletta jest programistą od dziecka, lat 90', po prawie 2 dekadach pracy zawodowej w międzynarodowych zespołach jako DevOps, Software Development java, kotlin, python, javascript, php, perl dzieli się doświadczeniem w hipermodularnym projektowaniu i rozwijaniu sieci oprogramowania.
 Z autorem książki można się spotkać i porozmawiać online lub offline, ale codziennie jest dostępny na forum dla praktyków, developerów hipermodularyzacji: hypermodular.com
 
 ## This book answers these questions
