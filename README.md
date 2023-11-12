@@ -7,7 +7,7 @@
 ---
 ---
 ---
----
+
 
 Co przyniesie rok 2222?
 
@@ -28,6 +28,7 @@ Ta książka jest właśnie dla Was!
 **Tom Sapletta** jest programistą od dziecka, od lat 90'. 
 W tej książce dzieli się doświadczeniem w projektowaniu i rozwijaniu **hipermodularnych** sieci oprogramowania.
 Tom ma za sobą prawie **2 dekady** doświadczenia zawodowego w międzynarodowych zespołach jako DevOps, Software Development java, kotlin, python, javascript, php, perl, ...
+
 Z autorem książki można się spotkać i porozmawiać online lub offline, ale codziennie jest dostępny na forum dla praktyków, developerów hipermodularyzacji: hypermodular.com
 
 ---
