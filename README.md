@@ -34,7 +34,7 @@ Chcących nauczyć się zawodu przyszłości: **projektanta systemów modularnyc
 ---
 
 
-**Tom Sapletta** programuje od czasów zx-spectrum, commodore i atari, ma za sobą prawie **2 dekady** doświadczenia zawodowego w międzynarodowych zespołach jako DevOps, programista java, kotlin, python, javascript, php, perl, ...
+**Tom Sapletta** programuje od czasów zx-spectrum, commodore i atari, ma za sobą prawie **2 dekady** doświadczenia zawodowego w międzynarodowych zespołach jako Researcher, DevOps, programista java, kotlin, python, javascript, php, perl, ...
 
 W tej książce dzieli się doświadczeniem w projektowaniu i rozwijaniu **hipermodularnych** sieci oprogramowania.
 
