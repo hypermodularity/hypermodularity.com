@@ -13,7 +13,7 @@
 
 Co przyniesie rok 2222?
 
-Rok 2022 przyniósł ChatGPT pierwszy milion użytkowników w ciągu **5 dni** od jej publicznego udostępnienia.
+Rok 2022 przyniósł aplikacji ChatGPT pierwszy milion użytkowników w ciągu **5 dni** od jej publicznego udostępnienia.
 Po dwóch miesiącach aplikacja osiągnęła poziom **100 mln** użytkowników, bijąc tym samym rekord!
 TikTok, dotychczasowy lider, na uzyskanie takiego zainteresowania potrzebował 9 miesięcy, Instagram 2,5 roku, a Facebook około 5 lat.
 
