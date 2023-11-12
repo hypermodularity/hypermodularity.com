@@ -26,10 +26,10 @@ Dla osób:
 + optymalizujących procesy w dużej skali
 
 Dla specjalistów:
-+ architektów modularnych systemów, w tym. kosmicznej stacji SSP (Space Solar Power)
++ architektów modularnych systemów, np. kosmicznej stacji SSP (Space Solar Power)
 + projektantów i programistów modularnego oprogramowania
 
-I tych, którzy obawiają się utraty pracy z powodu AI i chcą już dziś uczyć się zawodu przyszłości: **projektanta systemów modularnych**.
+I tych, którzy chcą nauczyć się zawodu przyszłości: **projektanta systemów modularnych**.
 
 ---
 
