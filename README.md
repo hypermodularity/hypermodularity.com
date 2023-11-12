@@ -20,9 +20,13 @@ Wielu z nas zna te doniesienia medialne, wielu chciałoby również pochwalić s
 Ta książka jest właśnie dla Was!
 
 + osób poszukujących spersonalizowanych rozwiązań
-+ osób optymalizujących procesy dużej skali 
++ osób optymalizujących procesy dużej skali
++ osób obawiających się utraty pracy z powodu AI
+
+Dla specjalistów
 + architektów kosmicznej stacji SSP (Space Solar Power)
 + projektantów i programistów modularnego oprogramowania
+
 
 ---
 
