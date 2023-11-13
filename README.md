@@ -78,6 +78,19 @@ Więcej:
 
 
 ---
+
+## Network of Source-code management system 
+
++ w rozwoju systemu wersjonowania modularnych sieci rozszerzającego możliwości [Git](https://en.wikipedia.org/wiki/Git) a distributed **version control system** that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different computers).
++ Git is about code
++ hypermodularity is about network of code
+
+The next layer system should help managed **network of code**
+
+
+
+
+## Systemy hipermodularne 
 Systemy hipermodularne cechują się zdolnością do elastycznego konfigurowania i skalowania oraz często zastosowaniem w środowiskach wymagających niezwykłej niezawodności i adaptacji.
 
 Poprzez opisane metody i rozwiązania, dowiesz się jak optymalizować złożone projekty, niezależnie od branży.
