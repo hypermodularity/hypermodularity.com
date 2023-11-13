@@ -79,14 +79,26 @@ Więcej:
 
 ---
 
-## Network of Source-code management system 
+## Service-based component management tools
+
+Network of Source-code management system 
 
 + w rozwoju systemu wersjonowania modularnych sieci rozszerzającego możliwości [Git](https://en.wikipedia.org/wiki/Git) a distributed **version control system** that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different computers).
 + Git is about code
-+ hypermodularity is about network of code
-
++ hypermodularity is about network of code (Service-based components)
 The next layer system should help managed **network of code**
 
+Service-based component management tools
+
+Service-based component management tools provide the ability to view, install and register components according to a model-based approach. 
+Moreover, in practice, reuse is not a binary concept: there is a need to control and administer levels of reuse. 
+Such component management tools are important in hypermodularization.
+
+
+
+Narzędzia do zarządzania komponentami oparte na usługach zapewniają możliwość przeglądania, instalowania i rejestrowania komponentów zgodnie z podejściem opartym na modelu. 
+Ponadto w praktyce ponowne użycie nie jest pojęciem binarnym: istnieje potrzeba kontrolowania i administrowania poziomami ponownego użycia. 
+Takie narzędzia do zarządzania komponentami są ważne w hipermodularyzacji.
 
 
 
