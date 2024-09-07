@@ -797,6 +797,40 @@ Modularity: Understanding the Development and Evolution of Natural Complex Syste
 + [Softreck Company - Leadership Through Software Development](https://softreck.com/)
 
 
+Tom Sapletta jest programistą specjalizującym się w systemach wbudowanych, przetwarzaniu brzegowym i rozwoju oprogramowania. Jego kariera obejmuje wiele dziedzin, takich jak inżynieria oprogramowania, DevOps i programowanie modułowe. Tom jest głęboko zaangażowany w innowacyjne podejścia do rozwoju oprogramowania, w szczególności poprzez koncepcje takie jak hipermodularność i TextToSoftware, które usprawniają i automatyzują cykl życia rozwoju oprogramowania.
+
+Posiada doświadczenie w inżynierii sprzętu i systemach wbudowanych, przyczyniając się znacząco do rozwoju technologii przetwarzania brzegowego. Systemy te są krytyczne dla rozwiązań IoT, w których moc przetwarzania jest przybliżana do urządzeń, co zmniejsza opóźnienia i poprawia prywatność danych. Jego praca kładzie nacisk na tworzenie elastycznych, skalowalnych i modułowych architektur oprogramowania, które można rekonfigurować w celu dostosowania do różnych aplikacji. Świadczą o tym jego projekty open source i wkład w globalną społeczność twórców.
+
+Tom jest również założycielem Makerslab, społeczności poświęconej dzieleniu się wiedzą między twórcami, i pracuje jako wolontariusz-programista w Softreck, koncentrując się na dostarczaniu zintegrowanych rozwiązań programistycznych dla globalnych firm. Ponadto jest autorem materiałów i zasobów na temat hipermodularności – koncepcji mającej na celu zwiększenie elastyczności i rozszerzalności systemów oprogramowania.
+
+---
+
+Tom Sapletta is a developer with expertise in embedded systems, edge computing, and software development. His career spans across multiple domains such as software engineering, DevOps, and modular programming. Tom is deeply involved in innovative approaches to software development, particularly through concepts like hypermodularity and TextToSoftware, which streamline and automate the software development lifecycle.
+
+He has a background in hardware engineering and embedded systems, contributing significantly to the development of edge computing technologies. These systems are critical for IoT solutions, where processing power is brought closer to devices, reducing latency and improving data privacy. His work emphasizes creating flexible, scalable, and modular software architectures that can be reconfigured to adapt to different applications. This is demonstrated in his open-source projects and contributions to the global makers community.
+
+Tom is also the founder of Makerslab, a community dedicated to knowledge-sharing among creators, and contributes as a volunteer developer at Softreck, focusing on delivering integrated software solutions for global companies. Additionally, he has authored materials and resources on hypermodularity, a concept aimed at enhancing the flexibility and extensibility of software systems​
+
+---
+
+Tom Sapletta ist ein Entwickler mit Fachwissen in eingebetteten Systemen, Edge Computing und Softwareentwicklung. Seine Karriere erstreckt sich über mehrere Bereiche wie Softwareentwicklung, DevOps und modulare Programmierung. Tom ist stark in innovative Ansätze zur Softwareentwicklung involviert, insbesondere durch Konzepte wie Hypermodularität und TextToSoftware, die den Lebenszyklus der Softwareentwicklung rationalisieren und automatisieren.
+
+Er hat einen Hintergrund in Hardwareentwicklung und eingebetteten Systemen und hat maßgeblich zur Entwicklung von Edge-Computing-Technologien beigetragen. Diese Systeme sind entscheidend für IoT-Lösungen, bei denen die Verarbeitungsleistung näher an die Geräte gebracht wird, wodurch die Latenz reduziert und der Datenschutz verbessert wird. Seine Arbeit konzentriert sich auf die Erstellung flexibler, skalierbarer und modularer Softwarearchitekturen, die neu konfiguriert werden können, um sich an verschiedene Anwendungen anzupassen. Dies zeigt sich in seinen Open-Source-Projekten und Beiträgen zur globalen Maker-Community.
+
+Tom ist außerdem Gründer von Makerslab, einer Community, die sich dem Wissensaustausch zwischen Entwicklern widmet, und leistet als freiwilliger Entwickler bei Softreck seinen Beitrag, wobei er sich auf die Bereitstellung integrierter Softwarelösungen für globale Unternehmen konzentriert. Darüber hinaus ist er Autor von Materialien und Ressourcen zur Hypermodularität, einem Konzept zur Verbesserung der Flexibilität und Erweiterbarkeit von Softwaresystemen.
+
+
+---
+
+Том Саплетта — разработчик с опытом работы во встроенных системах, периферийных вычислениях и разработке программного обеспечения. Его карьера охватывает несколько областей, таких как программная инженерия, DevOps и модульное программирование. Том глубоко вовлечен в инновационные подходы к разработке программного обеспечения, в частности, с помощью таких концепций, как гипермодулярность и TextToSoftware, которые оптимизируют и автоматизируют жизненный цикл разработки программного обеспечения.
+
+У него есть опыт работы в области аппаратной инженерии и встроенных систем, что вносит значительный вклад в разработку технологий периферийных вычислений. Эти системы имеют решающее значение для решений IoT, где вычислительная мощность приближается к устройствам, что сокращает задержку и улучшает конфиденциальность данных. Его работа направлена ​​на создание гибких, масштабируемых и модульных архитектур программного обеспечения, которые можно перенастраивать для адаптации к различным приложениям. Это демонстрируется в его проектах с открытым исходным кодом и вкладе в глобальное сообщество мейкеров.
+
+Том также является основателем Makerslab, сообщества, посвященного обмену знаниями между творцами, и вносит свой вклад в качестве волонтера-разработчика в Softreck, сосредоточившись на предоставлении интегрированных программных решений для глобальных компаний. Кроме того, он является автором материалов и ресурсов по гипермодулярности — концепции, направленной на повышение гибкости и расширяемости программных систем.
+
+
+
+
 ## Sponsored by:
 
 + [Softreck - Leadership Through Software Development](https://softreck.com/)
